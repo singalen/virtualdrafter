@@ -1,0 +1,61 @@
+; White
+
+Altar's Light 0.8
+Arrest 0.8
+Auriok Bladewarden 0.8
+Auriok Steelshaper 0.8
+Auriok Transfixer 0.8
+Awe Strike 0.7
+Blinding Beam 0.8
+Leonin Abunas 0.8
+Leonin Den-Guard 0.7
+Leonin Elder 0.3
+Leonin Skyhunter 0.8
+Loxodon Mender 0.4
+Loxodon Peacekeeper 0.3
+Loxodon Punisher 0.5
+Luminous Angel 1.1
+Raise the Alarm 0.6
+Razor Barrier 0.6
+Roar of the Kha 0.8
+Rule of Law 0.1
+Second Sunrise 0.5
+Skyhunter Cub 0.7
+Skyhunter Patrol 0.8
+Slith Ascendant 0.9
+Solar Tide 1.2
+Soul Nova 0.8
+Sphere of Purity 0.3
+Taj-Nar Swordsmith 0.7
+Tempest of Light 0.3
+
+; Blue
+
+Annul 0.5
+Assert Authority 0.4+3*CountBy(Type,Artifact,0.01)
+Broodstar 0.5+CountBy(Type,Artifact,0.03)
+Disarm 0.5
+Domineer 0.8
+Dream's Grip 0.35
+Fabricate 0.4+3*CountBy(Type,Artifact,0.01)
+Fatespinner 0.4
+Inertia Bubble 0.7
+Looming Hoverguard 0.6
+Lumengrid Augur 0.8
+Lumengrid Sentinel 0.4
+Lumengrid Warden 0.3
+March of the Machines 0.4
+Neurok Familiar 0.3
+Neurok Spy 0.8
+Override 0.6
+Psychic Membrane 0.8
+Quicksilver Elemental 0.8
+Regress 0.5
+Shared Fate 0.25
+Slith Strider 0.4
+Somber Hoverguard 0.7
+Temporal Cascade 0.3
+Thirst For Knowledge 0.7
+Thoughtcast 0.5
+Vedalken Archmage 0.8
+Wanderguard Sentry 0.4

@@ -1,0 +1,1 @@
+pkzip25 -add -rec -dir=relative VirtuDrafter-0.6-bin VirtualDrafter.exe *.txt decks.dat values.dat cardslist.dat

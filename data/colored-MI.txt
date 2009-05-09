@@ -1,0 +1,33 @@
+AEther Spellbomb 0.6
+Bosh, Iron Golem 0.9
+Cobalt Golem 0.7
+Copper Myr 0.5
+Crystal Shard 0.8
+Elf Replica 0.5
+Goblin Replica 0.75
+Gold Myr 0.5
+Granite Shard 0.9
+Heartwood Shard 0.2 - не стоит возни
+Hematite Golem 0.68
+Iron Myr 0.5
+Leaden Myr 0.5
+Leonin Sun Standard 1.0
+Lifespark Spellbomb 0.4
+Malachite Golem 0.7
+Necrogen Spellbomb 0.35
+Nim Replica 0.6
+Pearl Shard 0.7
+Pewter Golem 0.7
+Pyrite Spellbomb 0.7 ?
+Silver Myr 0.5
+Skeleton Shard 0.8
+Slagwurm Armor 0.4
+Soldier Replica 0.6
+Sunbeam Spellbomb 0.3
+Talisman of Dominance 0.5
+Talisman of Impulse 0.5
+Talisman of Indulgence 0.5
+Talisman of Progress 0.5
+Talisman of Unity 0.5
+Titanium Golem 0.4
+Wizard Replica 0.6
