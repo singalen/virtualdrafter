@@ -1,0 +1,100 @@
+Format ON ON LE
+; Формат: Deck имя цвета ... строки оценок карт ... Deckend
+
+Deck RG RG
+Forgotten Cave 0.51
+Tranquil Thicket 0.51
+Contested Cliffs 0.7
+Thunder of Hooves 0.5
+Wirewood Lodge 0.2
+Bloodstained Mire 0.4
+Windswept Heath 0.4
+Wooded Foothills 0.5
+Great Furnace 0.4
+Tree of Tales 0.4
+Deckend
+
+Deck RedBlue UR
+Forgotten Cave 0.51
+Lonely Sandbar 0.51
+Riptide Laboratory 0.2
+Bloodstained Mire 0.4
+Flooded Strand 0.4
+Polluted Delta 0.4
+Wooded Foothills 0.4
+Great Furnace 0.4
+Seat of Synod 0.4
+Deckend
+
+Deck BG BG
+Barren Moor 0.51
+Tranquil Thicket 0.51
+Bloodstained Mire 0.4
+Polluted Delta 0.4
+Windswept Heath 0.4
+Wooded Foothills 0.4
+Tree of Tales 0.4
+Vault of Whispers 0.4
+Deckend
+
+Deck BRZombies BR
+Barren Moor 0.51
+Forgotten Cave 0.51
+Bloodstained Mire 0.5
+Polluted Delta 0.4
+Wooded Foothills 0.4
+Great Furnace 0.4
+Vault of Whispers 0.4
+Deckend
+
+Deck Clerics BW
+Barren Moor 0.51
+Secluded Steppe 0.51
+Starlit Sanctum 0.4
+Flooded Strand 0.4
+Polluted Delta 0.4
+Windswept Heath 0.4
+Vile Deacon 0.75
+Ancient Den 0.4
+Vault of Whispers 0.4
+Deckend
+
+Deck WRSoldiers WR
+Forgotten Cave 0.51
+Secluded Steppe 0.51
+Daru Encampment 0.4
+Goblin Burrows 0.4
+Bloodstained Mire 0.4
+Flooded Strand 0.4
+Windswept Heath 0.4
+Wooded Foothills 0.4
+Ancient Den 0.4
+Great Furnace 0.4
+Deckend
+
+Deck UWWall-a-bounce UW
+Lonely Sandbar 0.51
+Secluded Steppe 0.51
+Riptide Laboratory 0.2
+Seaside Haven 0.3
+Flooded Strand 0.5
+Polluted Delta 0.4
+Windswept Heath 0.4
+Ancient Den 0.4
+Seat of Synod 0.4
+Deckend
+
+Deck WGomno WG
+Ancient Den 0.4
+Tree of Tales 0.4
+Deckend
+
+Deck UGU UG
+Seat of Synod 0.4
+Tree of Tales 0.4
+Deckend
+
+Deck Psycho UB
+Seat of Synod 0.4
+Vault of Whispers 0.4
+Deckend

@@ -1,0 +1,2566 @@
+Оценки эти взяты с потолка и неправильны.
+Конструктивная критика приветствуется, ругань игнорируется.
+
+В этом сете у вас будет очень много Equipments. Как ни старайтесь, меньше
+3-х не будет. Так что очень часто вы таки-сможете сделать нужное существо equipped.
+
+Подозреваю, что в лимитед деках по-прежнему будет 2 цвета и артефакты.
+
+WHITE
+
+Altar's Light - 2WW 
+Instant (U) Remove target artifact or enchantment from the game.
+
+Terminate. За 4 маны. Хорошо, что не за 6 - все равно пришлось бы играть.
+0.7
+
+Arrest 2W 
+Еще почти полный ремувал. Это лучше Пацифизма.
+0.7
+
+Auriok Bladewarden - 1W 
+Creature - Human Soldier (U) 
+T: Target creature gets +X/+X until end of turn, where X is Auriok 
+Bladewarden''s power. 
+1/1 
+
+Timberwatch Elf по наличию у вас Equipments. Да и один Timberwatch тоже делает игру.
+0.8
+
+
+Auriok Steelshaper - 1W 
+Creature - Human Soldier (R) 
+Equip costs you pay cost 1 less. 
+As long as Auriok Steelshaper is equipped, Soldiers 
+and Knights you control get +1/+1. 
+1/1 Illus. Dany Orizio # 4
+
+Crusade effect, правда, условный. Но у вас будет чем его одеть.
+1.0
+
+Auriok Transfixer- W 
+Creature - Human Scout (C) 
+W,
+T: Tap target artifact. 
+1/1 
+
+Увы, тапать им почти нечего - только немногих артефактных крич. Noncreature артефакты
+тапаются сами в ответ на его абилку.
+0.6
+
+Awe Strike- W 
+Instant (C) 
+The next time target creature would deal 
+damage this turn, prevent that damage. You gain life equal to 
+the damage prevented this way. 
+
+Отличный комбатный трюк, хотя и никого не убивает.
+0.5
+
+Blinding Beam- 2W 
+Instant (C)
+Choose one - Tap two target creatures; or 
+creatures don't untap during target player's next untap step. 
+Entwine 1 
+
+Здравствуй, Tangle. Хороший трюк, если есть кем ударить в ответ.
+0.6
+
+Leonin Abunas
+W 
+Creature - Cat Cleric (R) 
+Artifacts you control can't 
+be the targets of spells or abilities your opponents control. 
+
+А это - защита половины ваших существ и бомб от ремувала и вражьих эффектов.
+0.8
+
+Leonin Den-Guard - 1W 
+Creature - Cat Soldier (C)
+As long as Leonine Denguard 
+is equiped, Leonine Denguard gets +1/+1 and attacking doesn't 
+cause Leonine Denguard to tap. 
+1/3 
+
+При наличии амуниции (она у вас будет) у вас будет парень 
+минимум 2/4, нетапающийся, третьим ходом побежит в атаку. Оч. хор.
+0.8
+
+Leonin Elder- W 
+Creature - Cat Cleric (C) 
+Whenever an artifact comes into play, you may gain 1 life.
+1/1
+
+Допустим, эта карта даст вам 6 хитов и бесполезную (при отсутствии амуниции) 
+кричу 1/1. Если больше играть нечем, то можно и этим.
+0.4
+
+Leonin Skyhunter- WW 
+Creature - Cat Knight (U) 
+Flying 
+2/2 
+
+О как мы гоняемся за флаерами 2/2 за 3 маны! А это что? 
+Даблкост не проблема - мы уже глубоко в белом.
+0.8
+
+Loxodon Mender- 5W 
+Creature - Elephant Cleric (C) 
+W, T : Regenerate target artifact. 
+3/3 
+
+3/3 за 6. Играйте, если больше нечем. Ключевые артефакты вам все равно убьют раньше. 
+Либо ждите с ними до 7-8 хода.
+0.4
+
+Loxodon Peacekeeper- 1W 
+Creature - Elephant Soldier (R) 
+At the beginning of 
+your upkeep, the player with the lowest life total gains 
+control of Loxodon Peacekeeper. If two or more players are 
+tied for lowest life total, you choose one of them, and that 
+player gains control of Loxodon Peacekeeper. 
+4/4 
+
+Если вы вдруг заиграете этим, вам придется постоянно держать свои хиты ниже 
+(или на уровне) оппонентских, что не ведет к победе. Но удерживает атаку 
+по земле.
+Смотрите, чтобы оппонент не делал себе манаберн.
+0.5
+
+Loxodon Punisher- 3W 
+Creature - Elephant Soldier (R) 
+Loxodon Punisher gets +2/+2 for each Equipment attached to it. 
+2/2 
+
+
+Конечно, он отхватит оппонентский ремувал. Но вообще, 4/4 за 4 - хороший размен,
+даже если эта способность условна.
+0.5
+
+Luminous Angel- 
+4WWW 
+Creature - Angel (R) 
+Flying 
+At the beginning of your upkeep, you may put a 1/1 white Spirit creature token 
+with flying into play. 
+4/4 
+
+"Я бомба-бомба-бомба, я вовсе не медведь"
+1.1
+
+Raise the Alarm - 1W 
+Instant (C) 
+Put two 1/1 white soldier creature tokens into play. 
+
+То, что это инстант, возводит карту из разряда бесполезных в разряд хороших
+комбатных трюков. Это как минимум - ремувал на 1 кричу с защитой 2.
+0.6
+
+Razor Barrier
+1W 
+Instant (C) 
+Target permanent you control gains 
+protection from artifacts or from the color of your choice 
+until end of turn.
+
+Еще один очень хороший многоцелевой трюк.
+0.6
+
+Roar of the Kha- 1W 
+Instant (U) 
+Choose one: Creatures you control get +1/+1 or untap all creatures you control.
+Entwine 1W 
+
+И еще один великолепный трюк.
+0.8
+
+Rule of Law- 2W 
+Enchantment (R) 
+Each player cannot play more than one spell each turn.
+
+Бесполезно в limited.
+0.1
+
+Second Sunrise- 1WW 
+Instant (R) 
+Each player returns to play all artifact, 
+creature, enchantment, and land cards that were put into his 
+or her graveyard from play this turn. 
+
+Это трюк, но вот что он делает? Наверное, спасает ваши перманенты, убитые не в бою.
+Или позволяет пойти в самоубийственную атаку "этим и следующим ходом", да еще и 
+иметь нетапнутых блокеров. Играбельно.
+0.5
+
+
+Skyhunter Cub- 2W 
+Creature - Cat Knight (C) 
+As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying. 
+2/2 
+
+А вот еще один белый супер-флаер. С условием, правда.
+0.7
+
+Skyhunter Patrol- 2WW 
+Creature - Cat Knight (C) 
+Flying, first strike. 
+2/3 
+
+Здравствуй, Thunder Spirit.
+0.8
+
+Slith Ascendant- 1WW 
+Creature - Slith (U) 
+Flying 
+Whenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it. 
+1/1
+
+Это флаер, который растет КАЖДЫЙ ход. Играйте этой картой. Или убивайте ее быстро.
+0.9
+
+Solar Tide- 4WW 
+Sorcery (R) 
+Choose one: Destroy all creatures with 
+power less than or equal to 2, or destroy all creatures with 
+power greater than or equal to 3. Entwine: Sacrifice two lands. 
+
+Думаю, вы в курсе.
+1.2
+
+
+Soul Nova- 3WW 
+Instant (U)
+Remove target attacking creature and all Equipment attached to it from the game. 
+
+Вау, кардадвантаж и ремувал в одной карте. Убивает именно то, что нужно.
+Геймбрейкер. За приемлемую цену.
+0.9
+
+Sphere of Purity- 3W 
+Enchantment (C)
+If an artifact would deal damage to you, prevent 1 of that damage
+
+Похожа на одиссейные сферы. Малоиграбельна, как и они.
+0.3
+
+Taj-Nar Swordsmith- 3W 
+Creature - Cat Soldier (U) 
+When Taj-Nar Swordsmith comes into play, you may pay X. If you 
+do, search your library for an Equipment card with converted 
+mana cost X or less and put that card into play. Then shuffle 
+your library. 
+2/3 
+
+Дороговатый тютор, но амуницию за 1-2 маны вполне потянет - в белом у 
+вас еще будут ранние дропы. Кардадвантаж и неплохая крича.
+0.7
+
+Tempest of Light- 2W 
+Instant (U)
+Destroy all enchantments. 
+
+Сайд. Иногда полезный. Чаще нет.
+0.2
+
+BLUE 
+
+Annul- U 
+Instant (C)
+Counter target artifact or enchantment spell. 
+
+Дешево убьет любой из половины оппонентских спелов. Гут.
+0.7
+
+Assert Authority- 5UU 
+Instant (U)
+Affinity for artifacts 
+Counter target 
+spell. If it's countered this way, remove it from the game 
+instead of putting it into its owner's graveyard. 
+
+Контрспелл, то есть поздний размен 1-за-1. Допустим, у вас 3 артефакта 
+в игре, тогда он будет стоить 2UU. Играбельно.
+0.4
+
+Broodstar- 8UU 
+Creature - Beast (R)
+Affinity for artifacts
+Flying 
+Broodstar's power and toughness are each equal to the 
+number of artifacts you control. 
+*/* 
+
+Посложнее. Сильно зависит от числа артефактов. При 3-4 в игре это
+летун 3/3 - 4/4 за 6-7 ман. Приемлемо.
+0.7
+
+Disarm- U
+Instant 
+Unattach all Equipment from target creature. 
+
+Вау! Синий комбатный трюк. Полезный, хотя сам по себе никого не убивает.
+0.5
+
+
+Domineer- 1UU 
+Enchant Artifact Creature (U) 
+You control enchanted artifact creature. 
+
+Control Magic. Условный, но наверняка пригодится.
+0.8
+
+Dream's Grip- U 
+Instant (C)
+Choose one - Tap target permanent; or untap target permanent. 
+Etwine 1
+
+2 Twiddle - интересная утилита, но ничего не сможет сама по себе.
+0.35
+
+Fabricate- 2U 
+Sorcery 
+Search your library for an artifact card, reveal it, and put it 
+into your hand. Then shuffle your library. 
+
+Здравствуй, Tinker. Нет, это, конечно, не тинкер, но тютор за вашей бомбой.
+Играбельно.
+~0.5, смотря по артефактам.
+
+Fatespinner- 1UU 
+Creature - Human Wizard (R) 
+At the beginning of each 
+opponent's upkeep, that player chooses draw step, main phase, 
+or combat phase. That player skips each instance of the chosen 
+phase or step this turn. 
+1/2 
+
+Не лимитедная карта. Хотя...
+0.4
+
+Inertia Bubble- 1U 
+Enchant Artifact (C)
+Enchanted artifact doesn't untap during its controller's untap step.
+
+Dehydration - это ремувал.
+0.7
+
+Looming Hoverguard- 4UU 
+Creature - Drone (U)
+Flying
+When Looming Hoverguard comes into play, put target artifact on top of its 
+owner's library.
+3/3 
+
+Кардадвантаж. Играбельно.
+0.7
+
+Lumengrid Augur- 3U 
+Creature - Vedalken Wizard (R) 
+1, T: Target player draws a card, then discards a card from his or her 
+hand. If that player discards an artifact card this way, untap 
+Lumengrid Augur.
+2/2
+
+Здравствуй, Cephalid Looter.
+0.8
+
+Lumengrid Sentinel- 2U 
+Creature - Human Wizard
+Flying
+Whenever an artifact comes into play under your control, you may tap 
+target permanent.
+1/2
+
+При конечном числе артефактов в руке - малополезно.
+0.4
+
+Lumengrid Warden- 1U 
+Creature - Human Wizard (C)
+
+1/3
+
+Ужас. Но приходится играть.
+0.4
+
+
+March of the Machines- 3U 
+Enchantment (R)
+All non-creature artifacts are artifact creatures with power and 
+toughness equal to their converted mana cost. 
+
+Вы тратите карту на симметричный эффект. Применимо только если у вас есть
+на то серьезная причина.
+0.4
+
+Neurok Familiar- 1U 
+Creature - Bird (C)
+Flying
+When Neurok Familiar comes into play, reveal the top card of your 
+library. If it's an artifact card, put it into your hand. Otherwise, 
+put it into your graveyard.
+1/1
+
+Как же без Sage Owl.
+0.3
+
+Neurok Spy
+- 
+2
+U 
+Creature - Human Rogue Neurok Spy is unblockable as 
+long as defending player controls an artifact. 2/2 #44 
+Override- 
+2
+U 
+Instant (C) Counter target spell unless its controller 
+pays 1 
+for each artifact you control. #45 Psychic 
+Membrane- 
+2
+U 
+Creature - Wall (Walls can't attack.) 
+Whenever Psychic Membrane blocks, you may draw a card. 
+0/3 #46 Quicksilver Elemental- 
+3
+U
+U 
+Creature - Elemental (R) 
+U: 
+Quicksilver Elemental gains all activated abilities of target 
+creature until end of turn. (If any of the abilities use that 
+creature's name, use this creature's name instead.) You 
+may spend blue mana as though it were mana of any color to pay 
+the activation costs of Quicksilver Elemental's abilities. 
+3/4 #47 Regress- 
+2
+U 
+Instant (C) Return target permanent to its owner's 
+hand. #48 Shared Fate- 
+4
+U 
+Enchantment (R) If a player would draw a card, that 
+player removes the top card of an opponent's library face down 
+instead. Each player may look at and play cards he or she 
+removed from the game with Shared Fate as though they were in 
+his or her hand. #49 Slith Strider- 
+1
+U
+U 
+Creature - Slith (U) Whenever Slith Strider becomes 
+blocked, draw a card. Whenever Slith Strider deals combat 
+damage to a player, put a +1/+1 counter on it. 1/1 #50 
+
+
+Somber Hoverguard- 5U 
+Creature - Drone (C)
+Flying
+Affinity for artifacts 
+3/2
+
+При наличии 2 артефактов это летун 3/2 за 4. А уж хоть 1 артефакт у вас будет.
+0.7
+
+
+Temporal 
+Cascade- 
+5
+U
+U 
+Sorcery (R) Choose one - Each player shuffles his or 
+her hand and graveyard into his or her library; or each player 
+draws seven cards. Entwine 
+2 
+(Choose both if you pay the entwine cost.) Illus. 
+Puddnhead #52 Thirst For Knowledge- 
+2
+U 
+Instant (U) Draw three cards, then discard two cards 
+from you hand unless you discard an artifact card from your 
+hand. #53
+Thoughtcast
+- 
+4
+U 
+Sorcery (C) Affinity for artifacts (This spell 
+costs 
+1 less to 
+play for each artifact you control.) Draw two cards. 
+Vedalken eyes don't see the beauty in things. They see 
+only what those things can teach. Illus. Greg 
+Hildebrandt #54
+Vedalken Archmage- 2UU 
+Creature - Vedalken Wizard (R)
+Whenever you play an artifact spell, draw a card.
+0/2
+
+Очень, очень хороший мальчик. Наверняка выдравит вам 2-4 карты, если 
+не оттянет оппонентский Terror (что тоже хорошо).
+
+Sentry - 4U 
+Creature - Drone (C)
+When Wanderguard Sentry comes into play, look at target opponent's hand.
+3/3
+
+3/3 за 5. Когда нечем играть, играть можно и этим. Но у вас неприятности.
+
+
+
+BLACK
+
+Barter in Blood- 2BB 
+Sorcery (U)
+Each player sacrifices two creatures. 
+
+Определенно констрактедного качества карта. В лимитеде, отличный четвертый дроп. 
+Берегитесь услышать третьим оппонентским ходом "болото, ход"!
+0.8
+
+Betrayal of Flesh- 5B 
+Instant 
+Choose one - Destroy target creature; or return target creature card from your 
+graveyard to play. 
+Entwine: Sacrifice three lands. 
+
+Играбельно в обеих половинах. И все вместе - тем более играбельно. Чуть дороговато.
+0.7
+
+Chimney Imp- 4B 
+Creature - Imp (C)
+Flying
+When Chimney Imp is put into a graveyard from play, target opponent puts a card from 
+his or her hand on top of his or her library. 1/2
+
+Кард дизадвантаж для оппонента, и крича с evasion. Была бы малополезной, если бы не
+горы амуниции в формате. Так что, можно играть.
+0.4
+
+Consume Spirit- X1B 
+Sorcery (C)
+Spend only black mana on X. 
+Consume Spirit deals X damage to target creature or player. You gain X life.
+
+Здравствуй, Drain Life. Хороший ремувал для limited, убьет кричу с защитой 3 за 5 ман.
+На большее в двуцветек не рассчитывайте.
+0.5
+
+Contaminated Bond- 1B 
+Enchant Creature (C)
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.
+
+Это не мешает существу атаковать или блокировать, если очень надо.
+0.2
+
+Disciple of the Vault- B 
+Creature - Human Cleric (C)
+Whenever an artifact is put into a graveyard from play, you may have target opponent 
+lose 1 life. 
+1/1 
+
+Возможно, он сгодится, чтобы сбить с оппонента 3-4-5 хитов. А может, и нет. Смотрите 
+по своей колоде.
+0.4-0.5
+
+Dross Harvester 1BB 
+Creature - Horror
+Protection from white. Whenever a creature is put into a graveyard from play, you gain 2 life. 
+At end of turn you lose 4 life. 4/4 
+
+4/4 за 3, но с очень большим недостатком. Если его будут блокировать и умирать в блоке, то 
+вы будете терять только 2 хита... а если блокер не умрет - то уберите его куда-нибудь.
+0.3
+
+
+Dross Prowler- 2B 
+Creature - Zombie (C)
+Fear 2/1
+
+Здравствуй, Severed Legion. Жаль, что ты теперь блокируемый.
+0.5
+
+Flayed Nim 3B
+Creature - Skeleton
+Whenever Flayed Nim deals combat damage to a creature, that creature's 
+controller loses that much life.
+B2: Regenerate Flayed Nim.
+2/2
+
+Хм! Отличный блокер. Да и атакер - ведь блокировать его почти бессмысленно.
+0.7
+
+Grim Reminder- 2B 
+Instant (R)
+Search your library for a non-land card 
+and reveal it. Each player who played a card with the same 
+name loses six life. Then shuffle it back into your library. 
+
+BB: Return Grim Reminder from your graveyard to your hand. 
+Play this ability only during your upkeep.
+
+Достаточно играбельно на драфте. 6 хитов - это больше, чем Lava Axe.
+0.5
+
+Irradiate- 3B 
+Instant (C)
+Target creature gets -1/-1 until end of turn for each artifact you control.
+
+Хороший ремувал, в т.ч. комбатный трюк.
+0.7
+
+Moriok Scavenger- 3B 
+Creature - Human Roque (C)
+When Moriok Scavenger comes into play, you may return target artifact 
+creature card from your graveyard to your hand.
+2/3 
+
+Здравствуй, Gravedigger. Хорошо выглядишь.
+0.7
+
+Necrogen Mists 2B 
+Enchantment (R)
+At the beginning of each player's upkeep, that player discards a card from 
+his or her hand.
+
+На драфте - редкой полезности карта.
+Хотя, если вы расстреляете руку быстро, а оппонент что-то держит...
+0.3
+
+Nim Devourer 3BB
+Creature - Zombie 
+Nim Devourer gets +1/+0 for each artifact you 
+control. 
+BB: Return Nim Devourer from your graveyard to 
+play, then sacrifice a creature. Play this ability only during 
+your upkeep.
+4/1
+
+Toughness мал, абилка хороша.
+0.6
+
+
+Nim Lasher 2B 
+Creature - Zombie
+Nim Lasher gets +1/+0 for each artifact you control.
+1/1
+
+2/1 или 3/1 - тоже хорошо.
+0.5
+
+Nim Shambler- 2BB 
+Creature - Zombie (U)
+Nim Shambler gets +1/+0 for each Artifact you control. 
+Sacrifice a creature: Regenerate Nim Shambler. 
+2/1 
+
+3/1, 4/1, 5/1. Регенерация. Напоминает Nantuko Husk, и бьет сильнее.
+0.7
+
+Nim Shieker 3B
+Creature - Zombie
+Flying
+Nim Shrieker gets +1/+0 for each artifact you control. 0/1 
+
+Если у вас хотя бы 2 артефакта, это 2/1 за 4. И больше...
+0.6
+
+Promise of Power 2BBB
+Sorcery (R)
+Chose one - You draw five cards and you lose 5 life; or put a 
+black Demon creature token with flying into play with power and toughness 
+each equal to the number of cards in your hand as the token 
+comes into play. 
+Entwine 4 
+(Chose both if you pay the entwine cost.) 
+
+Бомба. Не знаю, стоит ли ждать 10-11 хода и терять на нет 5 хитов. Но и 
+по отдельности - супер.
+1.0
+
+Reiver Demon- 4BBBB 
+Creature - Demon (R)
+Flying
+When Reiver Demon comes into play, if you played it from your hand, 
+destroy all nonartifact, nonblack creatures. They can't be regenerated. 
+6/6 
+
+Ой.
+Кабы не манакост, был бы 2.0.
+0.9
+
+Relic Bane 1BB 
+Enchant Artifact 
+Enchanted artifact has "At the beginning of your upkeep, you lose 2 life."
+
+Это не убивает артефакты, но ОЧЕНЬ портит жизнь их владельцу. Sulfuric Vortex - 
+констрактедная карта, а это в Mirrodin лимитед - лучше.
+0.8
+
+Slith Bloodletter- BB 
+Creature - Slith (U)
+Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.
+1B: Regenerate Slith Bloodletter. 
+1/1
+
+Навесьте ему какой-нибуть Hoversail, и это будет гораздо лучше вечного 
+блокера Drudge Skeletons.
+0.8
+
+Spoils of the Vault - B 
+Instant (R)
+Name a card. Reveal cards from the top of 
+your library until you reveal the named card, then put that 
+card into your hand. Remove all other cards revealed this way 
+from the game, and you lose 1 life for each of the removed 
+cards.
+
+Больно нынче играть Demonic Consultation... 
+В limited даст вам нужную землю при манаскрю. Больше свим скромным 
+разумением применений не вижу... если вы не играете 6 копий, скажем, Terror...
+0.3
+
+Terror- 1B 
+Instant (C)
+Destroy target nonartifact, nonblack creature. It can't be regenerated. 
+
+Классика. Чуть хуже из-за артефактности сета, но все же.
+0.8
+
+Vermiculos - 4B
+Creature - Horror
+Whenever an artifact comes into play, Vermiculos gets +4/+4 until end of turn. 
+1/1
+
+Еще Lava Axe. Вполне может в 2 хода снять с оппонента 8 хитов... если вы уже 
+выстроили наземную оборону. Так что играбельно.
+0.5
+
+Wail of the Nim 2B 
+Instant 
+Choose one - Regenerate each creature you control; or Wail of the Nim deals 
+1 damage to each creature and each player. 
+Entwine B 
+
+Вау. Здравствуй, черный Simoon.
+Учтем количество существ с защитой 1...
+0.9
+
+
+Wall of Blood 2B
+Creature - Wall
+Pay 1 life: Wall of Blood gets +1/+1 until end of turn. 
+0/2 
+
+Пробейтесь-ка через эту штуковину...
+0.8
+
+Woebearer 4B 
+Creature - Zombie 
+Fear
+Whenever Woebearer deals combat damage to a 
+player, you may return target creature card from your 
+graveyard to your hand.
+2/3 
+
+Здравствуй, Gravedigger. Ты стал еще круче... если только тебя не заблокирует артефактное существо.
+0.6
+
+Wrench Mind- BB 
+Sorcery (C or U)
+Target player discards two cards from his or her hand unless that player discards 
+an artifact from his or her hand.
+
+Дискард. Скорее всего, 1 карты. Слабенько.
+0.3
+
+
+RED 
+
+
+
+Arc-Slogger 3RR
+Creature - Beast (R)
+R, Remove the top ten cards of your library from the game: Arc-Slogger 
+deals 2 damage to target creature or player.
+4/5
+
+Хорошая тушка, иногда (раз-два за партию) полезная способность.
+0.8
+
+Atog- 1R 
+Creature - Atog (U)
+Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+1/2
+
+Эдакий Nantuko Husk в красном. Послабее, конечно, но вполне может есть 
+ваши артефактные земли. Вернее, грозить этим оппоненту.
+0.8
+
+
+Confusion in the Ranks- 3RR 
+Enchantment (R)
+Whenever an artifact, creature, or 
+enchantment comes into play, its controller chooses target 
+permanent another player controls that shares a type with it. 
+Exchange control of those permanents.
+
+Теряем карту и ход, превращаем игру в безумие. Кто-то может этим играть.
+0.2
+
+Detonate- XR 
+Sorcery (U)
+Destroy target artifact with converted mana cost equal to 
+X. It can't be regenerated. Detonate deals X damage to 
+that artifact's controller. 
+
+Диз-артефакт и в лицо в одном флаконе. Отлично.
+0.75
+
+Electrostatic Bolt- R 
+Instant
+Electrostatic Bolt deals two damage to target 
+creature or four damage to target artifact creature.
+
+Здравствуй, Шок. Ты напрочь убиваешь артефактных крич...
+0.7
+
+Fiery Gambit- 2R 
+Sorcery (R?)
+Flip a coin until you lose a flip or 
+choose to stop flipping. If you lose a flip, Fiery Gambit has 
+no effect. If you win onr or more flips, Fiery Gambit deals 3 
+damage to target creature. If you win two or more flips, Fiery 
+Gambit deals 6 damage to all opponents. If you win three or 
+more flips, draw nine cards and untap all lands you control. 
+
+Если не скомбить его с Krark's Thumb, то он в среднем наносит 
+1.5 повреждения существу, или 1.5 оппоненту, или дравит 1.25 карты и 
+растапывает 1/8 всех ваших земель.
+Как ремувал, пойдет.
+0.3
+
+Fists of the Anvil 1R
+Instant (C) 
+Target creature gets +4/+0 until end of turn
+
+Полезный трюк. Наносит 4 дамага, так что играбельно.
+0.4
+
+Forge Armor- 4R 
+Instant (U)
+As an additional cost to play Forge Armor, 
+sacrifice an Artifact. Put X +1/+1 counters on target 
+creature, where X is the sacrificed artifact's converted mana 
+cost.
+
+Мы тратим 2 карты, чтобы раскачать 1 существо, которое тоже могут убить и тем самым получить
+3 карты за одну. Нет уж, увольте, не играем, если у нас нет 2 Leonin Abunas.
+
+
+Fractured Loyalty 1R
+Enchant Creature(U)
+Whenever enchanted creature becomes the target 
+of a spell or ability, that spell or ability's controller 
+gains control of enchanged creature. (This effect doesn't end 
+at end of turn.)
+
+Мы получаем возможность играть вражеским существом в пинг-понг, если у нас 
+есть чем его перманентно поцелить. Почти как Custody Battle. Условно полезная карта.
+0.4
+
+Goblin Striker- 1R 
+Creature - Goblin Berserker (C)
+First strike, haste 
+1/1
+
+Существо 1/1.
+0.3
+
+Grab the Reins- 3R 
+Instant (U)
+Choose one - Until end of turn, you gain 
+control of target creature and it gains haste; or sacrifice a 
+creature, then Grab the Reins deals damage equal to that 
+creature's power to target creature or player.
+Entwine 2R 
+
+Здравствуй, Threaten. Отлично выглядишь. За 7 ман ты позволяешь 
+пожертвовать вражеское существо.
+0.8
+
+Incite War- 2R 
+Instant (C)
+Choose one - Creatures target player 
+controls attack this turn if able; or creatures you control 
+gain first strike until end of turn.
+Entwine 2 
+
+First Strike - полезная способность, особенно для красных с их 
+превалированием атаки над защитой. А еще за 5 ман эта карта позволяет заманить 
+вражьих существ к нам на чашечку First Strike. Скорее всего, это card и 
+table advantage.
+0.8
+
+Krark-Clan Grunt- 2R 
+Creature - Goblin Warrior (C)
+Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike 
+until end of turn.
+2/2 
+
+Gray Ogre с очень полезной способностью (ну прям nantuko husk, только опять хуже).
+0.6
+
+Krark-Clan Shaman R 
+Creature - Goblin Shaman (C)
+Sacrifice an artifact: 
+Krark-Clan Shaman deals one damage to each creature without flying.
+1/1 
+
+Хм, масс-ремувал ценой 2-3-4 карт... Играбельно.
+0.4
+
+Mass Hysteria R 
+Enchantment (R)
+All creatures have haste.
+
+Тратить карту на драфте на это? Нее.
+0.1
+
+Megatog - 4RR 
+Creature - Atog (R)
+Sacrifice an Artifact: Megatog gets +3/+3 and gains trample until 
+end of turn.
+3/4 
+
+Суперзверь в мире Мирродин.
+1.0
+
+
+Molten Rain- 1RR 
+Sorcery (C or U)
+Destroy target land. If that land is a non-basic land, Molten Rain deals 
+2 damage to that land's controller.
+
+Здравствуй, Stone Rain. Ты почти бесполезен в limited, но в констрактед у нас 
+снова есть 2 LD спелла за 3.
+0.3
+
+
+Ogre Leadfoot- 4R 
+Creature - Ogre (C)
+Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature. 
+3/3
+
+Хе-хе. 3/3 за 5 - это плохо. И кто сказал, что у противника ТОЛЬКО артефактные существа?
+0.4
+
+Rustmouth Ogre 4RR
+Creature - Ogre (U)
+Whenever Rustmouth Ogre deals combat damage to a 
+player, you may destroy target artifact that player controls. 
+5/4
+
+Снова ломаем артефакты. Правда, весьма условно. Тушка этого существа дает 
+ему возможность пробиться.
+0.7
+
+Seething Song- 2R 
+Instant (C)
+Add RRRRR to your mana pool.
+
+Констрактедная комбо-карта. Мне уже страшно думать о ней, сыгранной вторым ходом...
+0.1
+
+Shatter- 1R 
+Instant (C)
+Destroy target artifact.  
+
+Это мы знаем, это нам пригодится.
+0.7
+
+Shrapnel Blast 1R
+Instant - Uncommon
+As an additional cost to play Shrapnel Blast, sacrifice an artifact. 
+Sharpanel Blast deals 5 damage to target creature or 
+player.
+
+5 в голову, но за 2 карты. Но инстантом, 2 маны. Играбельно, оч. хор.
+0.8
+
+Slith Firewalker RR
+Creature - Slith (U)
+Haste
+Whenever Slith Firewalker deals come bat damage to a player, put a +1/+1 counter on it.
+1/1 
+
+Полезна, если успеет выскочить и пробежать до блокеров. Шанс на это есть.
+0.6
+
+Spikeshot Goblin 2R
+Creature - Goblin Shaman
+R, T: Spikeshot Goblin deals damage equal to it's 
+power to target creature or player.
+1/2  
+
+Здравствуй, Спарксмит. Ты будешь рулить.
+1.0
+
+Trash for Treasure 2R
+Sorcery
+As an additional cost to play Trash for Treasure sacrifice an artifact. 
+Return target artifact from your graveyard to play.
+
+Чуть похуже Tinker. Может есть ваши земли. Играбельно.
+0.5
+
+Vulshok Battlemaster 4R
+Creature - Human Warrior (R)
+Haste
+When Vulshok Battlemaster comes into play, attach all Equipment in play to it.
+2/2 
+
+Йо! Вот это да!
+На один ход вы получите весь equipment в игре и пойдете с ним в атаку.
+Потом, правда, оппонент заберет свою амуницию обратно. Но удар будет силен.
+0.7
+
+Vulshok Berserker- 3R 
+Creature - Human Beserker (C)
+Haste
+3/2
+
+Вполне достойное существо за свои деньги.
+0.5
+
+War Elemental RRR
+Creature - Elemental
+When War Elemental comes into play, sacrifice it unless an opponent 
+was dealt damage this turn. Whenever damage is dealt to an 
+opponent, put that many +1/+1 counters on War Elemental.
+1/1 
+
+Вау. Бомба. Дух Войны способен выигрывать игры, особенно если у вас есть evasion.
+
+
+GREEN 
+
+
+Battlegrowth G
+Instant
+Put a +1/+1 counter on target creature.
+
+Хороший трюк, и недорогой.
+0.6
+
+Bloodscent 3G
+Instant 
+All creatures able to block target creature this turn do so.
+
+Хороший трюк. Ремувал, выгодный размен.
+0.6
+
+Brown Ouphe- G 
+Creature - Ouphe (C) 
+1G, T: Counter target artifact ability requiring an activation cost.
+1/1
+
+Очень полезная способность, сдается мне. Более ничего.
+0.4
+ 
+Copperhoof Vorrac 3GG
+Creature - Beast (R)
+Copperhoof Vorrac gets +1/+1 for each untapped 
+permanent your opponents control.
+2/2  
+
+Круто. Она будет пульсировать где-то от 7/7 до 3/3, при надобности останется 7/7.
+0.8
+
+Creeping Mold- 2GG 
+Sorcery (U)
+Destroy target artifact, enchantment, or land.
+
+0.7
+
+Deconstruct- 2G 
+Sorcery (C)
+Destroy target artifact. Add GGG to your mana pool. 
+
+Ремувал артефакта. Бесплатный.
+0.6
+
+Fangren Hunter- 3GG 
+Creature - Beast (C)
+Trample
+4/4
+
+Хорошая туша.
+0.7
+
+Glissa Sunseeker- 2GG 
+Creature - Elf Legend (R)
+First Strike 
+T: Destroy target artifact if its converted mana cost is equal to the 
+amount of mana in your mana pool. 3/2
+
+Хорошенькая эльфиечка, способная перебить половину вражьей армии, резонная стоимость.
+0.8
+
+Groffskithur 5G
+Creature - Beast
+Whenever Groffskithur becomes blocked, you may 
+return target card named Groffskithur from your graveyard to 
+your hand. 3/3
+
+3/3 за 6. Если их двое, то можно играть ими в пинг-понг. Но не в магию.
+0.2
+
+Hum of the Radix- 2GG 
+Enchantment (R)
+Each artifact spell costs 1 more to play for each artifact its controller controls.  
+
+В limited... Если вы не играете артефактами, а противник играет... сайд.
+0.3
+
+Journey of Discovery- 2G 
+Sorcery (C)
+Choose one - Search your library for up to 
+two basic land cards, reveal them, put them into your hand, 
+then shuffle your library; or you may play up to two 
+additional lands this turn.
+Entwine: 2G  
+
+Кардадвантаж и улучшение топдеков. Почти что Explosive Vegetation.
+0.7
+
+Living Hive - Rare 6GG
+Creature - Elemental (R)
+Trample
+Whenever Living Hive deals combat damage to a 
+player, put that many 1/1 green insect tokens into play. 
+6/6
+
+Все хорошо, но 8 ман. Но - страшен.
+0.6
+
+Molder Slug 3GG
+Creature - Beast 
+At the beginning of each player's upkeep, that player 
+sacrifices an artifact.
+4/6 
+
+Экий зеленый Braids :) Растолстела она что-то...
+Тоже способен перебить половину вражьей армии. Как бы не нашей... Поэтому -
+0.8
+
+One Dozen Eyes- 5G 
+Sorcery (U)
+Choose one - Put a 5/5 green Beast creature token into play; 
+or put five 1/1 green Insect creature tokens into play.
+Entwine: GGG 
+
+Хорошая карта. Не факт, что нам нужно ждать 9 ман, но бист 5/5 за 6
+пригодится.
+0.7
+
+Plated Slagwurm 4GGG 
+Creature - Wurm
+Plated Slagwurm can't be target of opponents spells or abilities.
+8/8
+
+Ну ничего себе... Неубиваемая тварь.
+0.9
+
+Predator's Strike 1G
+Instant (C)
+Target Creature gets +3/+3 and gains trample until end of turn. 
+
+Очень, очень зеленый и хороший Giant Growth.
+0.7
+
+Slith Predator - GG
+Creature - Slith (U)
+Trample
+Whenever Slith Predator deals damage to a player, put a +1/+1 counter on it.
+1/1  
+
+Не будь она зеленой (см. Predator's Strike) стоила бы мало. А так,
+вполне играбельно. Опять же, Hoversail.
+0.7
+
+Sylvan Scrying- 1G 
+Sorcery (U)
+Search your library for a land card, reveal it, and put it into your hand.
+Then shuffle your library.
+
+Rampant Growth, чуть похуже. Позволяет сплешиться на хорошие карты других цветов.
+Обратите внимание, ищет небазовые земли.
+
+Tel-Jilad Archers 4G
+Creature - Elf Archer
+Protection from artifacts
+Tel-Jilad Archers may block as though it had flying.
+2/4  
+
+Отличный Giant Spider.
+0.7
+
+Tel-Jilad Chosen 1G
+Creature - Elf Warrior (C) 
+Protection from artifacts
+2/1  
+
+Хороший медведь.
+0.6
+
+Tel-Jilad Exile- 3G 
+Creature - Troll Warrior (C) 
+1G: Regenerate Tel-Jilad Exile.
+2/3
+
+Чуть похуже Horned Troll, но все еще очень хорошо.
+0.7
+
+Tooth and Nail 5GG
+Sorcery (R)
+Choose one - Search your library for up to two creature cards, 
+reveal them, put them into your hand, then shuffle your library, 
+or put up to two creature cards from your hand into play.
+Entwine: 2
+
+Очень хорошо, но очень, очень дорого.
+0.4
+
+Troll Ascetic 1GG
+Creature - Troll Shaman 
+Troll Ascetic can't be the target of spells or abilities 
+your opponents control. G1: Regenerate Troll Ascetic. 
+3/2
+
+ЧТО?! Вот это неубиваемая тварь. Абсолютно... Один недостаток - не очень толстый.
+0.9
+
+Trolls of Tel-Jilad 5GG
+Creature - Troll Shaman
+G1: Regenerate target green creature. 
+5/6
+
+Страшное существо, и очень дорогое. Поэтому -
+0.6
+
+
+Turn to Dust G
+Instant 
+Destroy target Equipment. Then add G to your mana pool.
+
+Отличный трюк. Стоит мейндека.
+0.4
+
+Viridian Joiner 2G
+Creature - Elf Druid 
+T: Add an amount of G to your mana pool equal to Viridian 
+Joiner's power. 1/2
+
+Просто ллановарец за 3. Не стоит того, чтобы его качать только ради маны.
+0.4
+
+Viridian Shaman - 2G 
+Creature - Elf (U)
+When Viridian Shaman comes into play, destroy target artifact.
+2/2  
+
+Здравствуй, Uktabi Orangutan.
+0.6
+
+Wurmskin Forger 5GG
+Creature - Elf Warrior 
+When Wurmskin Forger comes into play, distribute three 
++1/+1 counters among any number of target creatures.
+2/2 
+
+Очень хорошее существо, но дорогое.
+0.5
+
+ARTIFACT
+
+Aether Spellbomb- 1 
+Artifact (C) 
+U, Sacrifice Aether Spellbomb: Return target creature to its owner's hand. 
+1, Sacrifice Aether Spellbomb: Draw a card. 
+
+Здравствуй, Seal of Removal. Отлично выглядишь.
+0.6
+
+Alpha Myr 2
+Artifact Creature - Myr 
+2/1 
+
+Просто и со вкусом.
+0.6
+
+Altar of Shadows - 7 
+Artifact (R)
+At the beginning of your upkeep put a 
+charge counter on Altar of Shadows. At the beginning of 
+precombat mainphase add B for each charge counter on Altar of 
+Shadows to your mana pool.
+7, T: Destroy target creature and put a charge counter on Altar of Shadows.  
+
+Самозарядная гаубица, дороговато только. Поэтому только 
+0.8
+
+Banshee's Blade- 2
+Artifact - Equipment (U)
+Equipped Creature gets +1/+1 for each charge counter on Banshee's Blade.
+Whenever equipped creature deals combat damage, put a charge counter on 
+this card.
+Equip 2
+
+Здравствуй, Vampire's Embrace.
+Помните, если она спадает с кричи, каунтеры на ней остаюстся...
+0.9
+
+Blinkmoth Urn- 5 
+Artifact (R)
+At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that 
+player adds 1 to his or her mana pool for each artifact he or she controls. 
+
+Что-то оно делает. Но не для limited.
+
+Bonesplitter - 1 
+Artifact - Equipment (C)
+Equipped creature gets +2/+0 
+Equip: 1
+
+Красиво. Душевно. Хороший гоблин, неумирающий.
+За 1 ману, перманентный +2/+0 самому нужному существу...
+0.8
+
+Bosh, Iron Golem- 8 
+Artifact Creature - Golem Legend (R)
+Trample 
+3R, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to 
+the sacrificed artifact's converted mana cost to target 
+creature ot player. 6/7 
+
+Здравствуй, Bloodshot Cyclop от фирмы Bosh. Отлично выглядишь, trample тебе идет.
+0.8
+
+Bottle Gnomes- 3 
+Artifact Creature - Gnome (U)
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+
+Классика. Выиграть не помогает.
+0.5
+
+Cathodian- 3 
+Artifact Creature (U)
+When Cathodian is put into a graveyard from play, add 3 to your 
+mana pool.
+3/3  
+
+3/3 за 3. Оч хорошо.
+0.7
+
+Chalice of the Void- XX 
+Artifact (R)
+Chalice of the Void comes into play with X charge counters on it. 
+Whenever a player casts a spell with converted mana cost equal to the number 
+of charge counters on this, counter that spell.
+
+Ой, что будет в extended... а что будет со Слаем... Это же круче Meddling Mage.
+В драфте, увы, почти бесполезно - разве что надо заглушить вражескую бомбу.
+0.3
+
+Chromatic Sphere- 1 
+Artifact (C) 
+1, T, Sacrifice Chromatic Sphere: Add one mana of any color to 
+your mana pool. Draw a card. 
+
+Кантрип, небольшая цветостабилизация.
+Обратите внимание, это коммон. Так что, играем трехцветками?..
+0.3
+
+Chrome Mox 0 
+Artifact
+Imprint - When Chome Mox comes into play you may remove a nonland, nonartifact card 
+in your hand from the 
+T: Add one mana of any color that is the same as the imprinted 
+card to your mana pool.
+
+Здравствуй, Mox Diamond.
+Даст очень хороший темп ценой доп. карты. Почти как myrs, но лучше.
+0.6
+
+Clockwork Beetle- 1 
+Artifact Creature - Insect (C)
+Clockwork Beetle comes into play with two +1/+1 counters on it. 
+At end of combat, if Clockwork Beetle attacked or blocked this turn, 
+remove a +1/+1 counter from it.
+An ability to add +1/+1 counters?
+0/0
+
+Расширен знакомый нам по старым сетам набор "заводных" существ.
+Жук, конечно, 2/2 за 1, но тут же становится 1/1.
+Обратите внимание, умирает от существа 1/1. Не играем.
+
+Clockwork Condor- 4 
+Artifact Creature - Bird (C)
+Flying
+Clockwork Condor comes into play with three +1/+1 counters on it. 
+Whenever Clockwork Condor attacks or blocks, remove a 
++1/+1 counter from it at end of combat.
+0/0 
+
+Кондор 3/3 flying за 4. То есть, снимает 6 хитов. Может носить оборудование +1/+1. Играбельно.
+0.5
+
+Clockwork Dragon- 7 
+Artifact Creature - Dragon (R)
+Flying
+Clockwork Dragon comes into play with six +1/+1 counters on it. 
+Whenever Clockwork Dragon attacks or blocks, remove a 
++1/+1 counter from it at end of combat. 
+3: Put a +1/+1 counter on Clockwork Dragon.
+0/0
+
+Заводное существо, которое таки-умеет "заводиться". И как!
+6/6 flying за 7. И заряжается без тапа... то есть следующим ходом - он 8/8.
+Я бомба, бомба, бомба...
+1.0
+
+Clockwork Vorrac 5 
+Artifact Creature - Beast
+Trample
+Clockwork Vorrac comes into play with four +1/+1 counters on it.
+Whenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter 
+from it at end of combat.
+T: Put a +1/+1 counter on Clockwork Vorrac.
+0/0 
+
+4/4 trample за 5, и качается каждый ход. Снова бомба!
+0.9
+
+Cobalt Golem- 4 
+Artifact Creature - Golem (C) 
+1U: Cobalt Golem gains flying until end of turn.
+2/3
+
+Грубо говоря, флаер 2/3 за 4. Хорошо.
+0.7
+
+Copper Myr 2
+Artifact Creature - Myr
+T: Add G to your mana pool.
+1/1
+
+Артефактных ллановарцев оценить сложно, не имея эмпирических представлений о темпе блока.
+Пока что 0.4.
+
+Crystal Shard 3 
+Artifact
+3, T or U, T: Return target creature to it's owner's hand unless its controller pays 1.
+
+Вау! Ристический баунс. Бесцветный. После выхода, если у вас есть 4 маны и 1 из них синяя, 
+имеете шанс застать оппонентское существо врасплох и поломать все заклятия и отвалить амуницию.
+А потом - перманентно спасать своих существ. Страх, да и только.
+0.8
+
+Culling Scales 3
+Artifact
+At the beginning of your upkeep, destroy target nonland permanent with the lowest 
+converted mana cost among nonland permanents in play.
+
+Очень специфичная карта. Не доумаю, что заиграет в limited.
+0.2
+
+Damping Matrix 3
+Artifact
+Activated abilities of artifacts and creatures can't be played unless they're mana 
+abilities.
+
+Здравствуй, Null Rod. Давно не виделись.
+Убьет нужного оппонента напрочь в лимитед и констрактед.
+0.9
+
+Dead-Iron Sledge- 1 
+Artifact - Equipment (U)
+Equip: 2
+Whenever equipped creature blocks or is blocked by a creature, 
+destroy that creature and the equipped creature.
+
+Хорошая способность. Сам-то Dead-Iron Sledge остается...
+Особенно хорош будет на регенерирующемся существе.
+0.7
+
+Dragon Blood- 3 
+Artifact (U) 
+3,
+T: Put a +1/+1 counter on target creature.
+
+Очень полезная вещь.
+0.7
+
+Dross Scorpion- 4 
+Artifact Creature (C)
+Whenever Dross Scorpion or another artifact is put into a 
+graveyard from play, you may untap target artifact.
+3/1 
+
+Ничего так тушка. Интересно, но, вроде бы, малополезно.
+Надо исследовать трюки со всякими Chromatic Sphere.
+0.6
+
+Duplicant- 6 
+Artifact Creature - Shapeshifter (R)
+Imprint - When duplicant comes into play you may remove target nontoken 
+creature from the game. 
+As long as a creature card is imprinted on Duplicant, duplicant has 
+that card's power, toughness, and creature types. It's still a shapeshifter.
+2/4 
+
+Привет, ребенок Faceless Butcher и Clone. Теперь ты не только убиваешь, 
+но и съедаешь, и изображаешь собой съеденного. Круто!
+0.9
+
+Duskworker- 4 
+Artifact Creature (U)
+Whenever Duskworker becomes blocked, regenerate it. 
+3: Duskworker gets +1/+0 until end of turn. 
+2/2
+
+Этот парень безнаказанно бегает в атаку и качается. Ценное свойство. Считаем его 3/2.
+0.6
+
+
+Elf Replica - 3 
+Artifact Creature - Elf (C)
+1G, sacrifice Elf Replica: Destroy target enchantment.
+2/2
+
+Искусственный Лирист больше и неуклюжее настоящего, но достаточно толст и дешев.
+0.5
+
+Empyrial Plate 2 
+Artifact - Equipment (U)
+Equipped creature gets +1/+1 for each card in your hand. 
+Equip 2
+
+Здравствуй, Empyrial Armor. Ты дешевле и не умираешь вместе с носителем.
+Давно за тебя не дрались на драфтах...
+0.9
+
+Extraplanar Lens- 3 
+Artifact (R)
+Imprint - When Extraplanar Lens comes into play, you may remove target land 
+you control from the game. 
+Whenever a land with the same name as the imprinted card 
+is tapped for mana, its controller adds one mana to his or her 
+mana pool of any type that land produced. 
+
+Артефактный Vernal Bloom, требующий земли, может нам выйти боком в мейне. Возможно, 
+в сайде иметь много маны для активации всяких способностей будет полезно.
+0.4
+
+Farsight Mask 5
+Artifact 
+Whenever a source an opponent controls deals damage to 
+you, if Farsight Mask is untaped, you may draw a card.
+
+Card advantage - это хорошо. Если есть хиты.
+Поэтому лучше дамаж не пропускать.
+0.7
+
+Fireshrieker- 3 
+Artifact - Equipment (U)
+Equipped creature has double strike.
+Equip 2  
+
+Даблстрайк на большое существо? Хорошо. Оно станет очень злым.
+0.7
+
+Frogmite- 4 
+Artifact Creature (?)
+Affinity for Artifacts 
+2/2
+
+Интересно, сколько артефактов мы выставим первыми двумя ходами? Возможно, землю или 
+амуницию, или и то, и то. То есть, это 2/2 примерно за 3. Но, может быть, и за 4.
+0.4
+
+Galvanic Key 2
+Artifact
+You may play Galvanic Key at any time you could play an instant
+3, T: Untap target artifact
+
+Пофикшенный, засадный Voltaic Key. Тянет на слабый combat trick.
+0.3
+
+Gate to the Aether 6 
+Artifact
+At the beginning of each player's upkeep, that player reveals the top 
+card of his or her library. If it's an artifact, creature, enchantment, or 
+land card, the player may put it into play.
+
+Многообещающая карта. В limited бесполезно.
+0.2
+
+Gilded Lotus- 5 
+Artifact (R) 
+T: Add three mana of any one color to your mana pool.
+
+Здравствуй, Thran Dynamo.
+Если вы играете очень большими манакостами, одна рара вам, скорее всего, 
+не поможет, а выводок myr-ов ухудшит деку.
+0.3
+
+Goblin Charbelcher 4
+Artifact
+3, T: Reveal cards from the top of your library until you reveal a land 
+card. Goblin Charbelcher deals damage equal to the number of nonland cards 
+revealed this way to target creature or player. If the revealed land card 
+was a Mountain, Goblin Charbelcher deals double that damage instead. 
+Put the revealed cards on the bottom of your library in any order.
+
+В limited, это в среднем 1.4 дамага по одной цели, если вы играете без гор,
+и 2.1, если половина ваших земель - горы. Играбельно.
+0.8
+
+Goblin Dirigible 6
+Artifact Creature
+Flying
+Goblin Dirigible doesn't untap during your untap step. At the beginning of 
+your upkeep, you may pay 4. If you do, untap Goblin Dirigible. 
+4/4 
+
+Как подрос Brass Man, однако.
+4/4 флаерами всего за 6 у нас не разбрасываются. Их у нас подбирают рано.
+0.8
+
+Goblin Replica- 3 
+Artifact Creature - Goblin (C)
+3R, Sacrifice Goblin Replica: Destroy target artifact.
+2/2
+
+Destroy target artifact - очень полезная способность. А тут она еще напечатана на 
+существе 2/2 за 3...
+0.8
+
+Goblin War Wagon 4
+Artifact Creature
+Goblin War Wagon Doesn't untap during your untap step. 
+At the beginning of your upkeep, you may pay 2. If you do, 
+untap Goblin War Wagon.
+3/3
+
+Нормально для блокера.
+0.5
+
+Gold Myr- 2 
+Artifact Creature - Myr (C)
+T: Add W to your mana pool. 1/1
+
+0.4
+
+Golem-Skin Gauntlets- 1 
+Artifact - Equipment (U)
+Equipped creature gets +1/+0 for each Equipment attached to it.
+Equip 2  
+
+Забавно. Кстати, сама по себе дает +1/+0. Но слишком условно, нельзя играть 
+таким количеством амуниции. Это вредит количеству крич.
+0.4
+
+Granite Shard 3
+Artifact (U)
+3, T or R, T: Granite Shard deals 1 damage to target creature or player.
+
+Постоянный пинг. Очень, очень хорошо.
+1.0
+
+Grid Monitor- 4 
+Artifact Creature
+You can't play creature spells.
+4/6
+
+А что еще нам надо после 4/6? Правильно, амуниции на него. Лучше всего - Loxotron Warhammer.
+Играбельно.
+0.6
+
+Heartwood Shard 3
+Artifact
+3, T or G, T: Target creature gains trample until end of turn.
+
+Тратить только на trample карту... малополезно.
+0.2
+
+Hematite Golem- 4 
+Artifact Creature - Golem (C)
+1R: Hematite Golem gets +2/+0 until end of turn 1/4
+
+То есть, 3/4 за 2, 5/4 за 4... Очень хорошо.
+0.7
+
+Icy Manipulator- 4 
+Artifact (U)
+1, T: Tap target artifact, creature, or land.
+
+Кто к нам пришел, вы посмотрите. А мы и не ждали...
+0.9
+
+Iron Myr- 2 
+Artifact Creature - Myr (C)
+T: Add R to your mana pool. 1/1
+
+0.4
+
+Isochron Scepter- 2 
+Artifact (U)
+Imprint - When Isochron Scepter comes into play, you may remove an instant 
+card with converted mana cost 2 or less in your hand from the game.
+2, T: You may copy the imprinted instant card and play the copy without 
+paying its mana cost.
+
+А вот та партия, о которой столько говорили большевики.
+В limited может скопировать (список опущен)
+
+Jinxed Choker 3
+Artifact
+At the end of your turn, target opponent gains crontrol of Jinxed 
+Choker and puts a charge counter on it. At the beginning of your upkeep, 
+Jinxed Choker deals damage to you equal to the number of charge counters on it. 
+3: Put a charge counter on Jinxed Choker or remove one from it.
+
+Странная штуковина. Я оппоненту 1, он мне 2-3, я ему 4-5... Если я этим 
+самым побеждаю, то играть можно - получаем тот же Lava Axe (да, и мы его получаем...)
+0.4
+
+Krark's Thumb- 2 
+Legendary Artifact (R)
+If you would flip a coin, instead flip 2 coins and ignore one.
+
+Leaden Myr 2
+Artifact Creature - Myr
+T: Add B to your mana pool.
+1/1
+
+0.4
+
+Leonin Bladetrap 3
+Artifact
+You may play Leonin Bladetrap any time you could play an instant.
+2, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each 
+attacking creature without flying.
+
+Вах, какая вещь.
+0.8
+
+Leonin Scimitar- 1 
+Artifact - Equipment (C)
+Equip: 1
+Equipped creature gets +1/+1.
+
+Просто и со вкусом. Крайне полезная в комбате вещь.
+0.8
+
+
+Leonin Sun Standard 2
+Artifact (U)
+1W: Creatures you control get +1/+1 until end of turn.
+
+Видели overrun? Это круче. Но белое. Но круче. Нет, эти белые совсем обнаглели.
+1.0
+
+Leveler - 5 
+Artifact Creature (R)
+When Leveler comes into play, remove your library from the game.
+10/10  
+
+В limited бесполезно - декнетесь.
+0.2
+
+Liar's Pendulum 1
+Artifact
+2, T: Name a card. Target opponent guesses whether a card with that name is in 
+your hand. You may reveal your hand. If you do and your opponent guessed 
+wrong, draw a card.
+
+Очень веселая игра. Примерно каждый второй ход приносит карту. Дешево. Очень, очень хорошо.
+0.8
+
+Lifespark Spellbomb- 1 
+Artifact (C) 
+G, Sacrifice Lifespark Spellbomb: Until end of turn, target land 
+becomes a 3/3 creature that's still a land.
+1, Sacrifice Lifespark Spellbomb: Draw a card. 
+
+У нас в засаде сидит хейстовая крича 3/3. Полезно.
+0.5
+
+Lightning Coils 3 
+Artifact
+Whenever a nontoken creature you control is put into a graveyard from 
+play, put a charge counter on Lightning coils. At the beginning of your 
+upkeep, if Lightning Coils has five or more charge counters on it, remove all of 
+them from it and put that many 3/1 red Elemental creature 
+tokens with haste into play. Remove them from the game at end 
+of turn.
+
+Когда у вас умрет 5 существ, получите 5 маленьких шаровых полний 3/1. Пожалуй, это стоит
+положить в деку, но это не лучше хорошего существа или ремувала.
+0.5
+
+Lightning Greaves- 2 
+Artifact - Equipment
+Equipped creature has haste and can't be target of spells or abilities. 
+Equip 0
+
+Хейст за 0, каждому вашему существу. Иногда стоит играть.
+0.3
+
+Lodestone Myr 4 
+Artifact Creature - Myr
+Trample
+Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until 
+end of turn. 
+2/2  
+
+Это будет большой атакер, 3/3 или 4/4. Полезно.
+0.6
+
+Loxodon Warhammer- 3 
+Artifact - Equipment (U)
+Equipped creature gets +3/+0, has trample, and has 
+"Whenever this creature deals damage you gain that much life."
+Equip 3
+
+Здравствуй, Армадиловый Плащ! Ты больше не качаешь защиту существа, но добавляешь
+1 к атаке. И ты не умираешь со смертью носителя!
+Во времена Invasion это была бомба.
+0.9
+
+Malachite Golem- 6 
+Artifact Creature - Golem (C) 
+1G: Malachite Golem gains trample until end of turn. 
+5/3
+
+Хорошая тушка, и недорогая.
+0.7
+
+Mask of Memory- 2 
+Artifact - Equipment (U)
+Equip: 1 
+Whenever equipped creature deals combat damage to a player, 
+you may draw two cards. If you do, discard a card.
+
+Вах. Карта окупается сразу по выходу, и за пару-тройку ходов у вас есть
+решающее партию преимущество.
+0.9
+
+Mesmeric Orb- 2 
+Artifact (R)
+Whenever a permanent becomes untapped, that permanent's controller puts 
+the top card of his or her library into his or her graveyard.
+
+Забавно. Обоюдный millstone. В затянувшейся партии, оппонент будет на ход
+"впереди" вас. Можно играть, если больше нечем.
+0.3
+
+Mind's Eye 5
+Artifact
+Whenever an opponent would draw a card, you may pay 1. If you do, you 
+draw a card also.
+
+Здравствуй, Urza's Blueprints. Ты стал дешевле.
+0.8
+
+Mindslaver 6
+Artifact (R)
+4, T, Sacrifice Mindslaver: You control target 
+player's next turn. (You see all cards that player could see 
+and make all decisions for the player. He or she doesn't lose 
+life because of mana burn.)
+
+Вы как минимум убъете оппонентские существа об свои и затапаете их. 
+А ведь у его существ есть полезные способности...
+
+1.1
+
+Mindstorm Crown 3 
+Artifact
+At the beginning of you upkeep, if you have 
+no cards in your hand, draw a card. Otherwise, you lose one life. 
+
+Интересная Phyrexian Arena. В limited, вы вполне можете раскастоваться. А значит,
+это постоянный драв.
+Да и слай от такого не откажется...
+0.9
+
+Mirror Golem- 6 
+Artifact Creature - Golem (U)
+Imprint - When Mirror Golem comes into play, you may remove target card in a 
+graveyard from the game. Mirror Golem has protection from 
+each of the imprinted card's types (The card types are 
+artifact, creature, enchantment, instant, land, and 
+sorcery.)3/4
+
+Скажем, 3/4 pro-creatures. Маловат, но все равно - отлично.
+0.8
+  
+Mourner's Shield 4 
+Artifact Imprint - When Mourner's Shield comes into 
+play, you may remove target card in a graveyard from the game. 
+(The removed card is imprinted on this artifact.) 
+2, T: Prevent all damage that would be dealt this turn by a source 
+of your choice that shares a color with the imprinted card. 
+
+Поясняю: защита от одного из оппонентских цветов. Постоянно. Это лучше, чем
+Mother of Runes.
+0.6
+
+Myr Adapter- 3 
+Artifact Creature - Myr (C)
+Myr Adapter gets +1/+1 for each equipment attached to it.
+1/1
+В сете 8 коммоновых (1/11 всего числа) и 6 анкоммоновых амуниций, и почти все 
+они (кроме, пожалуй, одной) играбельны. То есть, вы можете рассчитывать 
+на 2-3 амуниции в колоде. Этого мало, чтобы включить этого парня.
+0.2
+
+Myr Enforcer- 7 
+Artifact Creature - Myr (C)
+Affinity for artifacts 
+4/4 
+
+4/4 примерно за 5, а то и 4. Хорошо.
+0.7
+
+Myr Incubator 6
+Artifact
+6, T, Sacrifice Myr Incubator: Search your library for any number of artifact 
+cards, remove them from the game, then put that many 1/1 Myr artifact creature 
+tokens into play. Then shuffle your library. 
+
+Ценой нескольких артефактов из библиотеки, вы получите X существ 1/1.
+Это может играть в качестве fog или вместе с прокачками всех существ, но не более того.
+Играбельно, но слабо.
+0.4
+
+Myr Mindservant- 1 
+Artifact Creature - Myr (U) 
+2, T: Shuffle your library.
+1/1 
+
+0.1
+
+
+Myr Prototype- 5 
+Artifact Creature - Myr (U)
+At the beginning of your upkeep put a +1/+1 counter on Myr Prototype. 
+Myr Prototype can't attack or block unless you pay 1 for each 
++1/+1 counter on it. 
+2/2
+
+Fading наоборот. Через 6-7 ходов он станет бесполезен, а до того 
+хорошо потопчется, если не упрется в регенератора.
+0.5
+
+Myr Retriever 2 
+Artifact Creature - Myr
+When Myr Retriever is put into a graveyard from play, return another target artifact card 
+from your graveyard to your hand.
+1/1
+
+Еще один вариант Raise Dead. Играбельно.
+0.5
+
+Necrogen Spellbomb- 1 
+Artifact (C) 
+B, Sacrifice Necrogen Spellbomb: Target player discards a card from his or her hand 
+1, sacrifice Necrogen Spellbomb: Draw a card.
+
+Дискард - малополезно, если не ждете бомбы, и она одна в руке, и не сыгралась сразу 
+после прихода... короче, тупой кантрип.
+0.35
+
+Needlebug - 4 
+Artifact Creature - Insect (U)
+Protection from artifacts
+You may play Needlebug any time you could play an instant.
+2/2 
+
+Убийца вражьих артефактных крич. Не носит амуниции. Трюк, но не ведет к победе.
+0.4
+
+Neurok Hoversail- 1
+Artifact - Equipment (C)
+Equipped creature has flying. 
+Equip 2
+
+Чем-то напоминает Wonder, вы не находите? Это не Flight, это остается в игре.
+0.7
+
+Nightmare Lash 4
+Artifact - Equipment
+Equipped creature gets +1/+1 for each swamp you control.
+Equip - Pay 3 life. 
+
+Черная карта, хорошая карта. Дает в двуцветке +2/+2, и дальше больше.
+0.5
+
+Nim Replica 3
+Artifact Creature - Zombie (C)
+2B, Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn.
+3/1
+
+Afflict, да еще и 3/1. Круто.
+0.7
+
+Nuisance Engine 3 
+Artifact
+2, T: Put a 0/1 Pest artifact creature token into play. 
+
+Вах, бесконечные блокеры. Крайне полезно.
+0.7
+
+Oblivion Stone- 3 
+Artifact (R) 
+4, T: Put a fate counter on target permanent. 
+5, T, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate 
+counter on it, then remove all fate counters from all permanents.
+
+Не все цвета могут устранить эту штуку, только белый, зеленый, красный.
+Остальным приходит односторонний Wrath.
+
+1.0
+
+Omega Myr- 2 
+Artifact Creature - Myr (C)
+1/2
+
+0.2
+
+Ornithopter- 0 
+Artifact Creature (U)
+Flying 
+0/2 
+
+0.2
+
+Pearl Shard- 3 
+Artifact (U) 
+3, T or W, T: Prevent the next 2 damage that would be dealt to target creature or 
+player this turn. 
+
+Очень полезно, хотя и не побеждает. 0.6
+
+Pentavus- 7 
+Artifact Creature (R)
+Pentavus comes into play with five +1/+1 counters on it. 
+1, Remove a +1/+1 counter from Pentavus: Put a 1/1 Pentavite artifact 
+creature token with flying into play.
+1, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+0/0 
+
+5/5 за 7. И порождает неубиваемых детей-летунов. Хорошо!
+0.9
+
+Pewter Golem 5
+Artifact Creature - Golem (C)
+1B: Regenerate Pweter Golem
+4/2
+
+Неубиваемый 4/2. Не Twisted Abnomination, но младший брат.
+0.8
+
+Platinum Angel- 7 
+Artifact Creature - Angel (R)
+Flying
+You can't lose the game and your opponents can't win the game.
+4/4
+
+Не, ну это не смешно.
+1.0
+
+Illus. Brom  Power Conduit- 2 
+Artifact (U) 
+T, remove a counter from a permanent you control: Choose one - Put a 
+charge counter on target artifact; or put a +1/+1 counter on target creature. 
+
+Забавная штука. Может, с чем-то скомбится.
+0.3
+
+Proteus Staff 3
+Artifact U
+2, T: Put target creature on the bottom of its owner's library. That 
+creature's controller reveals cards from the top of his or her 
+library until he or she reveals a creature card. That player puts 
+that card into play and the rest on the bottom of 
+his or her library in any order. Play this ability only 
+any time you could play a sorcery.  
+
+Забавный ремувал. Ненадежно.
+0.4
+
+Psychogenic Probe 2
+Artifact (R)
+Whenver a spell or ability causes a player to shuffle his or her 
+library, Psychogenic Probe deals 2 damage to him or her.
+
+Констрактедный трюк. В лимитед - редкой полезности карта.
+0.2
+
+Pyrite Spellbomb- 1 
+Artifact (C) 
+R, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to 
+target creature or player. 
+1, Sacrifice Pyrite Spellbomb: Draw a card. 
+
+Здравствуй, Seal of Fire с циклингом.
+0.8
+
+Quicksilver Fountain- 3 
+Artifact (R)
+At the beginning of each player's upkeep, that player puts a 
+flood counter on target non-Island 
+land he or she controls. That land is an island as long as it 
+has a flood counter on it. If all lands in play are islands, 
+remove all flood counters from all lands.  
+
+Редкой полезности карта.
+0.1
+
+Rust Elemental 4
+Artifact Creature - Elemental 
+Flying
+At the beginning of your upkeep, sacrifice an 
+artifact other than Rust Elemental. If you can't, tap Rust 
+Elemental and you lose 4 life.
+4/4
+
+Если у вас много артефактов - играйте этой картой. 12 летучих дамагов 
+оппоненту - очень хорошо.
+0.8
+
+Rustspore Ram- 4 
+Artifact Creature (U)
+When Rustspore Ram comes into play, destroy target equipment.
+1/3
+
+Shatter не стал хуже от бесцветности или тушки 1/3, но стал - 
+от ограниченности. В MI -
+0.6
+
+Scale of Chiss-Goria- 3 
+Artifact (C)
+Affinity for artifacts
+You may play Scale of Chiss-Goria any time you could play an instant. 
+T: Target creaure gets +0/+1 until end of turn.
+
+Комбатный трюк. Не смотрите косо, это реальный клерик, превентящий 1 дамаг существу.
+0.5
+
+
+Scrabbling Claws 1 
+Artifact 
+T: Target player removes a card in his or her graveyard from the game.
+1, Sacrifice Scrabbling Claws: Remove target card in a graveyard from the 
+game. Draw a card.
+
+Здравствуй, Phyrexian Furnace. Отлично выглядишь. Но не в limited.
+0.2
+
+Sculpting Steel 3
+Artifact
+When Sculpting Steel comes into play, it becomes a copy of any 
+artifact in play
+
+Возможно ли это? Клон за 3?
+0.9
+
+Scythe of the Wretched 2 
+Artifact - Equipment
+Equipped creature gets +2/+2. Whenever a creature dealt damage by 
+equipped creature this turn is put into a graveyard, return that card to 
+play under your control. Attach Schythe of the Wretched to that creature. 
+Equip 4
+
+Ужас. Просто ужас.
+0.8
+
+Serum Tank 3
+Artifact 
+Whenever Serum Tank or another artifact comes into play, 
+put a charge counter on Serum Tank.
+3, T, Remove a charge counter from Serum Tank: Draw a card. 
+
+Драв. Постоянный. Дешево. Это какой-то нездоровый сет.
+0.7
+
+Silver Myr- 2 
+Artifact Creature - Myr (C) 
+T : Add U to your mana pool.
+1/1
+
+0.4
+
+Skeleton Shard - 3
+Artifact (U)
+3, T or B, T: Return target artifact creature from your graveyard to your hand.
+
+Huh, перманентный raise dead? Вот это да.
+0.8
+
+Slagwurm Armor- 1 
+Artifact - Equipment
+Equip: 3
+Equipped creature gets +0/+6.
+
+Примерно бесполезно. Правда, самое нужное существо будет неубиваемо в атаке/блоке...
+ладно, можно играть.
+0.4
+
+Soldier Replica- 3 
+Artifact Creature - Soldier (C) 
+1W, Sacrifice Soldier Replica: This deals 3 damage to target 
+attacking or blocking creature.
+1/3
+
+Убивает атакера с защитой 4, или летающего - с защитой 3. Играбельно.
+0.6
+
+Solemn Simalacrum- 4 
+Artifact Creature (R)
+When Solemn Simalacrum comes into play, you may search your library for a 
+basic land card and put that card into play tapped. If you do, shuffle your 
+library. When Solemn Simalacrum is put into a graveyard 
+from play, you may draw a card.
+2/2
+
+Чистый кардадвантаж.
+0.7
+
+Soul Foundry- 4 
+Artifact (R) 
+Imprint - When Soul Foundry comes into play, you may remove a creature card in 
+your hand from the game. 
+X, T: Put a creature token into play that's a copy of the imprinted card. 
+X is the converted mana cost of that card. 
+
+Вах-вах-вах. Если это не бомба, то что же?
+1.1
+
+Spellweaver Helix 3
+Artifact (R) 
+Imprint - When spellweaver Helix comes into play, you may 
+remove two target sorcery cards in a single graveyard from the 
+game
+Whenever a card is played, if it has the same name as 
+one of the imprinted sorcery cards, you may copy the other and 
+play the copy without paying its mana cost.
+
+В лимитед, редкой полезности карта. В констрактед, похоже, полезно...
+0.2
+
+Steel Wall- 1 
+Artifact Creature - Wall (C)
+0/4
+
+0.5
+
+Sun Droplet- 2 
+Artifact (U)
+Whenever you're dealt damage, put that many charge counters on 
+Sun Droplet. At the beginning of each player's upkeep, you may 
+remove a charge counter from Sun Droplet. If you do, you gain 1 life.
+
+Медленно восстанавливает ваши хиты до первоначального уровня. А если их два,
+перепинать вас становится очень тяжело.
+0.6
+
+Sumbeam Spellbomb 1 
+Artifact 
+W, Sacrifice Sunbeam Spellbomb: You gain 5 life.
+1, Sacrifice Sunbeam Spellbomb: Draw a card. 
+
+Кантрип.
+0.3
+
+Sword of Kaldra 4
+Legendary Artifact - Equipment (R)
+Equipped creature gets +5/+5
+Whenever equipped creature deals combat damage to a creature, remove that 
+creature from the game.
+Equip 4 
+
+Снова бомба.
+0.9
+
+Synod Sanctum 1 
+Artifact 
+2, T: Remove target permanent you countrol from the game. 
+2, Sacrifice Synod Sanctum: Return to play under your control all 
+cards removed from the game with Synod Sanctum.
+
+Эта штука спасает всех ваших умирающих существ, и возвращает в игру.
+0.7
+
+Talisman of Dominance- 2 
+Artifact (U) 
+T: Add 1 to your mana pool. 
+T: Add U or B to your mana pool. Talisman of Dominance deals 1 damage to you. 
+
+0.4
+
+Talisman of Impulse- 2 
+Artifact (U) 
+T: Add 1 to your mana pool. 
+T: Add R or G to your mana pool. This deals 1 damage to you. 
+
+0.4
+
+Talisman of Indulgence- 2 
+Artifact (U) 
+T: Add 1 to your mana pool. 
+T: Add B or R to your mana pool. This deals 1 damage to you. 
+
+0.4
+
+Talisman of Progress- 2 
+Artifact (U) 
+T: Add 1 to your mana pool. 
+T: Add W or U to your mana pool. This deals 1 damage to you. 
+
+0.4
+
+Talisman of Unity- 2 
+Artifact (U) 
+T: Add 1 to your mana pool. 
+T: Add G or W to your mana pool. This deals 1 damage to you. 
+
+0.4
+
+Tanglebloom- 1 
+Artifact (C) 
+1, T: You gain 1 life. 
+
+Wellwisher помните? Это он забыл.
+0.5
+
+Tangleroot 3 
+Artifact (R)
+Whenever a player plays a creature spell, that player adds G to his or her mana pool.  
+
+Чисто констрактедная карта.
+0.1
+
+Tel-Jilad Stylus- 1 
+Artifact (U) 
+T: Put target permanent you own on the bottom of your library.
+
+Спасает ваших умирающих существ от декания.
+0.1
+
+Thought Prison - 5 
+Artifact (U)
+Imprint - When Thought Prison comes into 
+play, you may reveal target player's hand. If you do so, 
+choose a non-land card and remove it from the game. 
+Whenever a player plays a spell of the same color or with converted 
+mana cost equal to the imprinted card, Thought Prison deals 2 
+damage to him or her.
+
+Круто. Что делает, непонятно... в limited - дискардит 1 карту и наносит 4 дамага.
+Играть можно.
+0.4
+
+Timesifer 5
+Artifact (R)
+At the beginning of each player's upkeep each player removes the top card or his 
+or her library from the game. The player who removed the card 
+with the highest converted mana cost takes an extra turn after 
+this one. If two or more player's cards are tied for highest 
+cost, the tied players repeat this process until the tie is 
+broken.
+
+Безумие.
+0.2
+
+Titanium Golem- 5 
+Artifact Creature - Golem (C) 
+1W: Titanium Golem gains first strike until end of turn.
+3/3  
+
+Пойдет.
+0.4
+
+Tooth of Chiss-Goria- 3 
+Artifact (C)
+Affinity for artifacts
+You may play Tooth of Chiss-Goria any time you could play an instant. 
+T: Target creature gets +1/+0 until end of turn.  
+
+Хороший трюк.
+
+0.6
+
+Tower of Champions 4 
+Artifact (R)
+8, T: Target creature gets +6/+6 until end of turn
+
+Где нам взять 8 маны?
+Ко всем башням комментарий: Да, может победить. Если доживете.
+0.4
+
+Tower of Eons 4
+Artifact (R)
+8, tap: You gain 10 life. 
+
+0.3
+
+Tower of Fortunes 4
+Artifact (R)
+8, tap: Draw four cards.
+
+0.4
+
+Tower of Murmurs 4 
+Artifact (R)
+8, T: Target player put the top eight cards of his or her library into his or her graveyard. 
+
+0.4
+
+Triskelion- 6 
+Arifact Creature (R)
+Triskelion comes into play with three +1/+1 counters on it. Remove a +1/+1 counter from 
+Triskelion: Triskelion deals 1 damage to target creature or 
+player.
+1/1
+
+Пинг - это хорошо, и 4/4 тоже.
+0.7
+
+Viridian Longbow - 1 
+Artifact - Equipment (C)
+Equipped creature has "T: This creature deals one damage to target creature or player." 
+Equip 3
+
+Повторюсь. Особенно перманентный, на 2+.
+0.9
+
+Vorrac Battlehorns- 2 
+Artifact - Equipment (C)
+Equipped creature has trample and can't be blocked by more than one creature. 
+Equip 1
+
+Полезно толстякам.
+0.4
+
+Vulshok Battlegear- 3 
+Artifact - Equipment (U)
+Equip: 3
+Equipped creature gets +3/+3. 
+
+0.7
+
+Vulshok Gauntlets 2
+Artifact - Equipment
+Eqiupped creature gets +4/+2 and doesn't untap 
+during its controller's untap step.
+Equip 3
+
+Заметьте, это нельзя вешать на чужое существо.
+А одно из ваших не растапается, но эти рукавицы можно переодеть на другое...
+0.6
+
+Welding Jar- 0 
+Artifact (C)
+Sacrifice Welding Jar: Regenerate target artifact.
+
+Регенерационный щит, корм для Affinity. Более ничего.
+0.4
+
+Wizard Replica- 3
+Artifact Creature - Wizard (C) 
+U, Sacrifice Wizard Replica: Counter target spell unless its 
+controller pays 2
+1/3 
+
+1/3 за 3 с полезной тормозящей способностью. Хорошо.
+0.5
+
+Worldslayer- 5 
+Artifact - Equipment (R)
+Whenever equipped creature deals combat damage to a player, destroy 
+all permanents other than Worldslayer. 
+Equip 5
+
+Хм, Wrath и Armageddon. Полезный эффект, но он не будет неожиданностью.
+0.6
+
+Yotian Soldier- 
+3 
+Artifact Creature - Soldier Attacking doesn't cause 
+Yotian Soldier to tap. 1/4 
+
+Старик Йотинец, стенка.
+
+0.4
+
+
+Ancient Den
+Artifact Land (C)
+T: Add W to your mana pool. 
+
+0.4
+
+Blinkmoth 
+WellLand (U) 
+T: Add 1 to your mana pool 
+2, T: Tap target noncreature artifact. 
+
+Ой. Антитрюк.
+0.4
+
+Cloudpost 
+Land - Locus (C)
+Cloudpost comes into play tapped. 
+T: Add 1 to your mana pool for each Locus in play. 
+
+0.3
+
+Glimmervoid
+Land (R)
+At end of turn, if you control no artifacts, sacrifice Glimmervoid. 
+T: Add one mana of any color to your mana pool. 
+
+0.35
+
+Great Furnace
+Artifact Land (C) 
+T: Add R to your mana pool. 
+
+0.4
+
+Seat of the Synod
+Artifact Land (C)
+T: Add U to your mana pool.
+
+Stalking Stones
+Land (U) 
+T: Add one colorless mana to your mana pool. 
+6: Stalking Stones becomes a 3/3 artifact creature that''s still a land. 
+
+0.4
+
+Tree of Tales
+Artifact Land (C) 
+T: Add G to your mana pool. 
+
+0.4
+
+Vault of Whispers
+Artifact Land (C)
+T: Add B to your mana pool. 
+
+0.4

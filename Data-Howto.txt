@@ -1,0 +1,169 @@
+Как писать оценки для VirtualDrafter.
+
+За основу оценок взята система Дениса Тагунова (архив его обзоров вы можете найти на ccg.ru).
+Он оценивает карты по 10-балльной шкале, примерно так:
+10+ - бомба. Разрешение этого спелла в 90% означает "Я выиграл".
+9 - почти-бомба. Сама по себе ломает ход партии.
+8 - очень качественная карта. Наличие её на столе/в стеке даёт вам заметное преимущество.
+7 - Хорошая карта, которая всегда попадёт в вашу колоду. Выше среднего.
+6 - "Мясо", то есть играбельная карта, которая тоже всегда попадает в колоду, но не делает её сверх-чем-то.
+5 - карта на грани сайдборда, "филлер". Карта уровня циклинга или дефёвого кантрипа, или
+очень ситуационный эффект.
+4 - Те, которые могут попасть в колоду, если дела совсем плохи.
+3 - Не должна попасть в колоду, хотя какой-нибудь псих может этим играть.
+2
+1
+0 - цифры одного порядка и никогда не должны играть, если это не земли (земли можно 
+положить в колоду без ущерба остальным картам).
+
+Для удобства арифметики все числа нормированы (т.е. разделены на 10) - это на тот случай, если 
+мне придёт в голову обрабатывать их статистически, возводить в квадрат и т.п.
+
+Для примера, вот цитата из статьи Дениса о архетипе UG блока OTJ (большая часть комментариев вырезана):
+
+=================================================================================
+
+Wild Mongrel (C) - 10
+Beast Attack (U)- 9
+Монгрель лучше Атаки Зверей по тем же самым причинам. Кроме того, заклинание стоимостью 5 ман это немного дорого для UG Tempo.
+
+Squirrel Nest (U) - 9
+Nantuko Disciple (C) - 8
+Roar of the Wurm (C) - 8 
+Werebear (C) - 7
+Krosan Avenger (C) - 7
+Spellbane Centaur (R) - 7
+Leaf Dancer (C) - 7 (метагейм таков, что при дефиците ремувала и общим большом количестве зеленых колод это существо фактически читается 2/2 unblockable)
+Sylvan Might (U) - 7
+Springing Tiger (C) - 6
+Gorilla Titan (U) - 6
+Seton's Desire (C) - 6
+Muscle Burst (C) - 6
+Chatter of the Squirrel (C) - 6
+Diligent Farmhand (C) - 6
+Ivy Elemental (R) - 5
+Krosan Beast (R) - 5-7
+Metamorphic Wurm (U) - 5
+Nantuko Mentor (R)- 5
+Elephant Ambush (C) - 5
+
+Blue
+
+Aboshan, Cephalid Emperor (R) - 10
+Amugaba (R) - 10
+Thought Devourer (R) - 10
+Persuasion (R) - 9
+Upheaval (R) - 9
+В этом случае лучше далее собирать Threshold - ориентированную колоду.
+
+Cephalid Broker (U) - 8
+Получив данное существо, вы можете начинать немного смещать приоритеты в сторону UG Threshold.
+
+Chamber of Manipulation (U) - 7
+Treetop Sentinel (U) - 7
+Aven Smokeweaver (U) - 7
+AEther Burst (C) - 7
+Repel (C) - 7
+Если будет выбор между этими двумя картами, берите Burst.
+
+Thought Eater (U) - 7
+Cephalid Looter (C) - 6
+Balshan Griffin (U) - 6 
+Aven Windreader (C) - 6
+Concentrate (U) - 6
+Puppeteer (U) - 6
+Deluge (U) - 6
+Dematerialise (C) - 6
+Aven Fisher (C) - 5
+Cephalid Scout (C) - 5 
+Dreamwinder (C)- 5
+Scrivener (C) - 5
+Syncopate (С) - 5
+Rites of Refusal (С) - 5
+
+Итак, наша задача получить в первом бустере 7-8 карт в наши цвета, из которых минимум 1-2 должен быть баунс, 3-4 существа, желательно летунов, поскольку качественная зеленая пехота будет в JM и 1-2 карт усиления существ.
+
+Теперь переходим к TM, бустеру, передающемуся в обратном направлении. 
+Игроки, сидящие слева, которым мы обрезали зеленый и синий цвет и давали настойчивые сигналы о черном, красном и белом, по идее, должны пропускать синии и зеленые карты.
+
+Green 
+
+Gurzigost (R) - 10
+Narcissism (U) - 9
+Possessed Centaur (R) - 8
+Arrogant Wurm (U) - 7-8
+Centaur Chieftain (U) - 7
+Basking Rootwalla (C) - 7
+Nantuko Blightcutter (R) - 7
+Seton's Scout (U) - 6
+Nantuko Cultivator (R) - 6
+Anurid Scavenger (U) - 6
+Acorn Harvest (C) -5
+
+Blue
+
+Turbulent Dreams (R) - 10
+Possessed Aven (R) - 9
+Skywing Aven (C) - 8
+Hydromorph Gull (U) - 8
+Breakthrough (U) - 7
+Deep Analysis (C) - 7
+Llawan, Cephalid Empress (R) - 7
+Aquamoeba (C) - 7
+Circular Logic (U) - от 5 до 7, в зависимости от присутствия способов ее дискарда.
+Balshan Collaborator (U) - 6
+Compulsion (U) - 6
+Churning Eddy (C) - 5
+Stupefying Touch (U) - 5
+Obsessive Search (C) - 5
+
+К сожалению, выбор небогат. Преимущественно нужно брать синий цвет, чтобы четко показать игроку справа, что вы весь его собираете и ему ничего не светит. Наша задача - набрать 5-6 хороших существ(в т.ч. несколько летунов) и прихватить 1-2 Churning Eddy.
+
+И, наконец, третий сет, JM.
+
+Green
+
+Genesis (R) - 11
+Ernham Djinn (R) - 10
+Phantom Nantuko (R) - 10
+Phantom Centaur (U) - 9
+Elephant Guide (U) - 9
+Grizzly Fate (U) - 8
+Brawn (U) - 8
+Phantom Tiger (C) - 8
+Sylvan Safekeeper (R) - 7-9 
+В зависимости от того, насколько у вас Treshold ориентированная колода
+
+Nullmage Advocate (C) - 8
+Thriss, Nantuko Primus (R) - 7
+Если ваши первые угрозы были успешно отражены, то данная карта способна заново все поставить на свои места.
+
+Forcemage Advocate (U) - 7
+Ironshell Beetle (C) - 7
+Sudden Strength (C) - 7
+Serene Sunset (U) - 7
+Harvester Druid (C) - 6
+Nantuko Tracer (C) - 6
+Anurid Barkripper (C) - 5
+Giant Warthog (C) - 5
+Exoskeletal Armor (U) - 5
+
+Blue
+
+Wonder (U) - 10
+Wormfang Crab (U) - 10
+Wormfang Drake (C) - 9
+Spelljack (9)
+Если попадется - возьмите, не пожалеете. Дороговат, но очень эффективен. 
+Scalpelexis (R) - 9
+Cephalid Inkshrouder (U) - 8
+Lost in Thoughts (C) - 7
+Mental Note (U) - 5-7 (в зависимости от того, насколько ваша колода threshold ориентирована)
+Wormfang Behemoth (R) - 6
+Aven Fogbringer - 5
+
+=================================================================================
+
+
+Свои оценки можно писать в файл values.dat, либо в файл decks.dat в блок соответствующей 
+колоды - тогда они будут действовать только в рамках определенного архетипа.

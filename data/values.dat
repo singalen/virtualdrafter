@@ -1,0 +1,2503 @@
+; Mercadian Masques
+
+Aerial Caravan 0.6
+Alabaster Wall 0.7
+Alley Grifters 0.5
+Ancestral Mask 0.4
+Armistice 0.5
+Arms Dealer 0.7
+Arrest  0.8
+Assembly Hall 0.3
+Ballista Squad 0.8
+Afterlife 0.9
+Balloon Peddler 0.5
+Barbed Wire 0.3
+Bargaining Table 0.8
+Battle Rampart 0.6
+Battle Squadron 0.9
+Bifurcate 0.6
+Black Market 0.3
+Blaster Mage 0.6
+Blockade Runner 0.7
+Blood Hound 0.4
+Blood Oath 0.8
+Boa Constrictor 0.6
+Bog Smugglers 0.5
+Bog Witch 0.4
+Brainstorm 0.6
+Brawl 0.7
+Briar Patch 0.6
+Bribery 0.8
+Buoyancy 0.6
+Cackling Witch 0.5
+Caller of the Hunt 0.6
+Cateran Brute 0.6
+Cateran Enforcer 0.6
+Cateran Kidnappers 0.8
+Cateran Overlord 0.8
+Cateran Persuader 0.5
+Cateran Slaver 0.7
+Cateran Summons 0.6
+Caustic Wasps 0.5
+Cave Sense 0.4
+Cave-In 1.0
+Cavern Crawler 0.4
+Ceremonial Guard 0.5
+Chambered Nautilus 0.6
+Chameleon Spirit 0.8
+Charisma 0.6
+Charm Peddler 0.6
+Charmed Griffin 0.7
+Cho-Arrim Alchemist 0.4
+Cho-Arrim Bruiser 0.4
+Cho-Arrim Legate 0.4
+Cho-Manno, Revolutionary 0.9
+Cho-Manno's Blessing 0.8
+Cinder Elemental 0.8
+Clear the Land 0.5
+Close Quarters 0.4
+Cloud Sprite 0.4
+Coastal Piracy 0.9
+Collective Unconscious 0.6
+Common Cause 0.5
+Conspiracy 0.4
+Cornered Market 0.3
+Corrupt Official 0.5
+Counterspell 0.6
+Cowardice 0.4
+Crackdown 0.7
+Crag Saurian 0.4
+Crash 0.4
+Credit Voucher 0.5
+Crenellated Wall 0.7
+Crooked Scales 0.5
+Crossbow Infantry 0.5
+Crumbling Sanctuary 0.6
+Customs Depot 0.6
+Dark Ritual 0.6
+Darting Merfolk 0.5
+Dawnstrider 0.4
+Deadly Insect 0.5
+Deathgazer 0.55
+Deepwood Drummer 0.6
+Deepwood Elder 0.6
+Deepwood Ghoul 0.7
+Deepwood Legate 0.4
+Deepwood Tantiv 0.4
+Deepwood Wolverine 0.5
+Dehydration 0.6
+Delraich 1.0
+Desert Twister 0.5
+Devout Witness 0.6
+Diplomatic Escort 0.5
+Diplomatic Immunity 0.5
+Disenchant 0.5
+Distorting Lens 0.5
+Drake Hatchling 0.6
+Dust Bowl 0.4
+Embargo 0.4
+Energy Flux 0.2
+Enslaved Horror 0.5
+Erithizon 0.4
+Extortion 0.55
+Extravagant Spirit 0.8
+Eye of Ramos 0.3
+False Demise 0.5
+Ferocity 0.5
+Flailing Manticore 0.5
+Flailing Ogre 0.4
+Flailing Soldier 0.4
+Flaming Sword 0.6
+Food Chain 0.6
+Forced March 1.1
+Foster 0.6
+Fountain of Cho 0.4
+Fountain Watch 0.5
+Fresh Volunteers 0.6
+Furious Assault 0.5
+Game Preserve 0.3
+General's Regalia 0.4
+Gerrard's Irregulars 0.5
+Ghoul's Feast 0.5
+Giant Caterpillar 0.7
+Glowing Anemone 0.4
+Groundskeeper 0.5
+Gush 0.5
+Hammer Mage 0.4
+Haunted Crossroads 0.8
+Heart of Ramos 0.3
+Henge Guardian 0.5
+Henge of Ramos 0.3
+Hickory Woodlot 0.3
+High Market 0.4
+High Seas 0.4
+Highway Robber 0.5
+Hired Giant 0.6
+Honor the Fallen 0.6
+Hoodwink 0.3
+Horn of Plenty 0.3
+Horn of Ramos 0.55
+Horned Troll 0.7
+Howling Wolf 0.4
+Hunted Wumpus 0.6
+Ignoble Soldier 0.4
+Indentured Djinn 0.7
+Instigator 0.5
+Insubordination 0.4
+Intimidation 0.5
+Invigorate 0.6
+Inviolability 0.7
+Iron Lance 0.5
+Ivory Mask 0.5
+Jeweled Torque 0.3
+Jhovall Queen 0.8
+Jhovall Rider 0.7
+Karn's Touch 0.4
+Kris Mage 0.6
+Kyren Archive 0.6
+Kyren Glider 0.4
+Kyren Legate 0.4
+Kyren Negotiations 0.8
+Kyren Sniper 0.4
+Kyren Toy 0.4
+Land Grant 0.6
+Larceny 0.5
+Last Breath 0.8
+Lava Runner 0.7
+Ley Line 0.4
+Liability 0.3
+Lightning Hounds 0.6
+Lithophage 0.6
+Lumbering Satyr 0.6
+Lunge 0.7
+Lure 0.5
+Maggot Therapy 0.7
+Magistrate's Scepter 0.4
+Magistrate's Veto 0.5
+Megatherium 0.7
+Mercadian Atlas 0.6
+Mercadian Bazaar 0.3
+Mercadian Lift 0.5
+Mercadia's Downfall 0.4
+Midnight Ritual 0.7
+Misdirection 0.7
+Misshapen Fiend 0.5
+Misstep 0.4
+Molting Harpy 0.6
+Moment of Silence 0.4
+Monkey Cage 0.4
+Moonlit Wake 0.3
+Muzzle 0.6
+Natural Affinity 0.7
+Nether Spirit 0.6
+Nightwind Glider 0.7
+Noble Purpose 0.5
+Notorious Assassin 0.8
+Ogre Taskmaster 0.5
+Orim's Cure 0.5
+Overtaker 0.8
+Panacea 0.6
+Pangosaur 0.5
+Peat Bog 0.5
+Pious Warrior 0.6
+Port Inspector 0.5
+Power Matrix 1.0
+Pretender's Claim 0.4
+Primeval Shambler 0.7
+Puffer Extract 0.4
+Pulverize 0.3
+Puppet's Verdict 0.6
+Putrefaction 0.4
+Quagmire Lamprey 0.5
+Rain of Tears 0.3
+Ramosian Captain 0.8
+Ramosian Commander 0.8
+Ramosian Lieutenant 0.8
+Ramosian Rally 0.6
+Ramosian Sergeant 0.6+3*CountBy(Name,"Ramosian Lieutenant",0.05)+3*CountBy(Name,"Defiant Falcon",0.05)+CountBy(Name,"Steadfast Guard",0.05)+CountBy(Name,"Fresh Volunteers",0.05)
+Ramosian Sky Marshal 0.9
+Rampart Crawler 0.5
+Rappelling Scouts 0.5
+Remote Farm 0.4
+Renounce 0.3
+Revered Elder 0.4
+Reverent Mantra 0.8
+Revive 0.7
+Righteous Aura 0.4
+Righteous Indignation 0.5
+Rishadan Airship 0.8
+Rishadan Brigand 0.6
+Rishadan Cutpurse 0.4
+Rishadan Footpad 0.5
+Rishadan Pawnshop 0.4
+Rishadan Port 0.5
+Robber Fly 0.4
+Rock Badger 0.6
+Rouse 0.5
+Rushwood Dryad 0.6
+Rushwood Elemental 1.0
+Rushwood Grove 0.5
+Rushwood Herbalist 0.6
+Rushwood Legate 0.5
+Saber Ants 0.5
+Sacred Prey 0.3
+Sailmonger 0.5
+Sand Squid 0.7
+Sandstone Needle 0.3
+Saprazzan Bailiff 0.4
+Saprazzan Breaker 0.5
+Saprazzan Cove 0.3
+Saprazzan Heir 0.6
+Saprazzan Legate 0.4
+Saprazzan Outrigger 0.6
+Saprazzan Raider 0.4
+Saprazzan Skerry 0.3
+Scandalmonger 0.6
+Security Detail 0.4
+Seismic Mage 0.5
+Sever Soul 0.7
+Shock Troops 0.7
+Shoving Match 0.4
+Silent Assassin 0.7
+Silverglade Elemental 0.7
+Silverglade Pathfinder 0.6
+Sizzle 0.5
+Skulking Fugitive 0.4
+Skull of Ramos 0.3
+Snake Pit 0.4
+Snorting Gahr 0.7
+Snuff Out 0.9
+Soothing Balm 0.4
+Soothsaying 0.5
+Soul Channeling 0.7
+Specter's Wail 0.5
+Spidersilk Armor 0.7
+Spiritual Focus 0.4
+Spontaneous Generation 0.5
+Squall 0.4
+Squallmonger 0.7
+Squee, Goblin Nabob 0.9
+Squeeze 0.4
+Stamina 0.4
+Statecraft 0.5
+Steadfast Guard 0.6
+Stinging Barrier 0.6
+Stone Rain  0.3
+Story Circle 0.7
+Strongarm Thug 0.4
+Subterranean Hangar 0.5
+Sustenance 0.5
+Task Force 0.6
+Tectonic Break 0.4
+Territorial Dispute 0.3
+Thermal Glider 0.6
+Thieves' Auction 0.6
+Thrashing Wumpus 1.0
+Thunderclap 0.7
+Thwart 0.5
+Tidal Bore 0.3
+Tidal Kraken 0.8
+Tiger Claws 0.7
+Timid Drake 0.4
+Tonic Peddler 0.3
+Tooth of Ramos 0.3
+Tower of the Magistrate 0.3
+Toymaker 0.4
+Trade Routes 0.6
+Tranquility 0.6
+Trap Runner 0.6
+Tremor 0.5
+Two-Headed Dragon 1.0
+Undertaker 0.7
+Unmask 0.6
+Unnatural Hunger 0.5
+Uphill Battle 0.5
+Vendetta 0.7
+Venomous Breath 0.6
+Venomous Dragonfly 0.5
+Vernal Equinox 0.4
+Vine Dryad 0.5
+Vine Trellis 0.6
+Volcanic Wind 0.9
+Wall of Distortion 0.5
+War Cadence 0.7
+War Tax 0.7
+Warmonger 0.5
+Warpath 0.6
+Waterfront Bouncer 0.7
+Wave of Reckoning 0.8
+Wild Jhovall 0.6
+Wishmonger 0.5
+Word of Blasting 0.4
+Worry Beads 0.4
+
+; Urza's Saga
+
+Absolute Grace 0.6
+Absolute Law 0.6
+Abundance 0.7
+Abyssal Horror 0.4
+Academy Researchers 0.3
+Acidic Soil 0.5
+Acridian 0.6
+Albino Troll 0.8
+Anaconda 0.7
+Angelic Chorus 0.6
+Angelic Page 0.5
+Annul 0.3
+Antagonism 0.3
+Arc Lightning 0.8
+Arcane Laboratory 0.1
+Argothian Elder 0.4
+Argothian Enchantress 0.2
+Argothian Swine 0.7
+Argothian Wurm 0.7
+Attunement 0.5
+Back to Basics 0.2
+Barrin, Master Wizard 0.8
+Barrin's Codex 0.5
+Bedlam 0.7
+Befoul 0.8
+Bereavement 0.2
+Blanchwood Armor 0.7
+Blanchwood Treefolk 0.7
+Blasted Landscape 0.5
+Blood Vassal 0.5
+Bog Raiders 0.6
+Brand 0.3
+Bravado 0.5
+Breach 0.5
+Brilliant Halo 0.8
+Bull Hippo 0.7
+Bulwark 0.4
+Cackling Fiend 0.4
+Carpet of Flowers 0.3
+Carrion Beetles 0.3
+Catalog 0.5
+Catastrophe 1.0
+Cathodion 0.7
+Cave Tiger 0.7
+Child of Gaea 0.9
+Chimeric Staff 0.9
+Citanul Centaurs 0.9
+Citanul Flute 0.8
+Citanul Hierophants 0.7
+Claws of Gix 0.6
+Clear 0.5
+Cloak of Mists 0.5
+Confiscate 0.9
+Congregate 0.5
+Contamination 0.3
+Copper Gnomes 0.3
+Coral Merfolk 0.4
+Corrupt	0.6
+Cradle Guard 0.8
+Crater Hellion 1.0
+Crazed Skirge 0.7
+Crosswinds 0.6
+Crystal Chimes 0.3
+Curfew 0.4
+Dark Hatchling 0.9
+Dark Ritual 0.3
+Darkest Hour 0.35
+Defensive Formation 0.8
+Despondency 0.7
+Destructive Urge 0.4
+Diabolic Servitude 0.9
+Disciple of Grace 0.45
+Disciple of Law 0.45
+Discordant Dirge 0.5
+Disenchant 0.6
+Disorder 0.4
+Disruptive Student 0.4
+Douse 0.4
+Dragon Blood 0.8
+Drifting Djinn 0.9
+Drifting Meadow	0.5
+Dromosaur 0.5 
+Duress 0.6
+Eastern Paladin	0.8
+Electryte 0.6
+Elite Archers 0.7
+Elvish Herder 0.6
+Elvish Lyrist 0.45
+Enchantment Alteration 0.7
+Endless Wurm 0.7
+Endoskeleton 0.7
+Energy Field 0.8
+Exhaustion 0.6
+Exhume 0.4
+Exploration 0.7
+Expunge 0.8
+Faith Healer 0.4
+Falter 0.5
+Fault Line 1.0
+Fecundity 0.2
+Fertile Ground 0.6
+Fiery Mantle 0.7
+Fire Ants 0.6
+Flesh Reaver 0.6
+Fluctuator 0.3
+Fog Bank 0.7
+Fortitude 0.8
+Gaea's Bounty 0.6
+Gaea's Cradle 0.6
+Gaea's Embrace 0.9
+Gamble 0.6
+Gilded Drake 1.0
+Glorious Anthem 0.9
+Goblin Cadets 0.2
+Goblin Lackey 0.3
+Goblin Matron 0.5
+Goblin Offensive 0.5
+Goblin Patrol 0.4
+Goblin Raider 0.5
+Goblin Spelunkers 0.6
+Goblin War Buggy 0.6
+Gorilla Warrior 0.6
+Grafted Skullcap 0.8
+Great Whale 0.8
+Greater Good 0.8
+Greener Pastures 0.5
+Guma 0.6
+Hawkeater Moth 0.5
+Headlong Rush 0.5
+Healing Salve 0.55
+Heat Ray 0.8
+Herald of Serra 0.9
+Hermetic Study 0.8
+Hibernation 0.4
+Hidden Ancients 0.5
+Hidden Guerrillas 0.5
+Hidden Herd 0.4
+Hidden Predators 0.6
+Hidden Spider 0.6
+Hidden Stag 0.6
+Hollow Dogs 0.6
+Hopping Automaton 0.5
+Horseshoe Crab 0.6
+Humble 0.8
+Hush 0.5
+Ill-Gotten Gains 0.4
+Imaginary Pet 0.5
+Intrepid Hero 0.9
+Jagged Lightning 0.8
+Karn, Silver Golem 0.7
+Launch 0.5
+Lay Waste 0.4
+Lifeline 0.5
+Lightning Dragon 0.85
+Lilting Refrain 0.5
+Lingering Mirage 0.5
+Looming Shade 0.6
+Lotus Blossom 0.7
+Lull 0.5
+Lurking Evil 0.7
+Mana Leech 0.6
+Meltdown 0.4
+Metrognome 0.6
+Midsummer Revel 0.8
+Mishra's Helix 0.8
+Mobile Fort 0.6
+Monk Idealist 0.6
+Monk Realist 0.6
+Morphling 1.0
+No Rest for the Wicked 0.7
+Noetic Scales 0.4
+Okk 0.6
+Opal Acrolith 0.6
+Opal Archangel 0.9
+Opal Caryatid 0.7
+Opal Gargoyle 0.7
+Opal Titan 0.7
+Oppression 0.4
+Order of Yawgmoth 0.7
+Outmaneuver 0.8
+Pacifism 0.9
+Parasitic Bond 0.5
+Pariah 0.8
+Path of Peace 0.8
+Pegasus Charger 0.6
+Pendrell Drake 0.7
+Pendrell Flux 0.6
+Peregrine Drake 0.7
+Persecute 0.7
+Pestilence 1.0
+Phyrexian Colossus 0.7
+Phyrexian Ghoul 0.8
+Phyrexian Processor 1.0
+Phyrexian Tower 0.3
+Pit Trap 0.8
+Planar Birth 0.4
+Planar Void 0.3
+Polluted Mire 0.4
+Pouncing Jaguar 0.4
+Power Sink 0.6
+Power Taint 0.5
+Presence of the Master 0.4
+Priest of Gix 0.6
+Priest of Titania 0.3
+Purging Scythe 0.7
+Rain of Filth 0.4
+Rain of Salt 0.3
+Ravenous Skirge 0.6
+Raze 0.1
+Recantation 0.7
+Reclusive Wight 0.5
+Redeem 0.6
+Reflexes 0.2
+Rejuvenate 0.4
+Remembrance 0.4
+Remote Isle 0.4
+Reprocess 0.5
+Rescind 0.6
+Retaliation 0.9
+Retromancer 0.65
+Rewind 0.5
+Rumbling Crescendo 0.4
+Rune of Protection: Artifacts 0.3
+Rune of Protection: Black 0.4
+Rune of Protection: Blue 0.4
+Rune of Protection: Green 0.4
+Rune of Protection: Lands 0.2
+Rune of Protection: Red 0.4
+Rune of Protection: White 0.4
+Sanctum Custodian 0.8
+Sanctum Guardian 0.7
+Sandbar Merfolk 0.4
+Sandbar Serpent 0.7
+Sanguine Guard 0.7
+Scald 0.4
+Scoria Wurm 0.6
+Scrap 0.6
+Seasoned Marshal 0.5
+Serra Avatar 0.8
+Serra Zealot 0.5
+Serra's Embrace 0.6
+Serra's Hymn 0.7
+Serra's Liturgy 0.6
+Serra's Sanctum 0.6
+Shimmering Barrier 0.6
+Shivan Gorge 0.6
+Shivan Hellkite 1.0
+Shivan Raptor 0.6
+Shiv's Embrace 0.7
+Show and Tell 0.4
+Shower of Sparks 0.6
+Sicken 0.6
+Silent Attendant 0.4
+Skirge Familiar 0.6
+Skittering Skirge 0.6
+Sleeper Agent 0.4
+Slippery Karst 0.4
+Smokestack 0.6
+Smoldering Crater 0.4
+Sneak Attack 0.6
+Somnophore 0.8
+Songstitcher 0.7
+Soul Sculptor 0.8
+Spined Fluke 0.7
+Spire Owl 0.55
+Sporogenesis 0.6
+Spreading Algae 0.4
+Steam Blast 0.8
+Stern Proctor 0.6
+Stroke of Genius 0.8
+Sulfuric Vapors 0.5
+Sunder 0.5
+Symbiosis 0.8
+Tainted AEther 0.5
+Telepathy 0.5
+Temporal Aperture 0.5
+Thran Quarry 0.6
+Thran Turbine 0.4
+Thundering Giant 0.5
+Time Spiral 0.5
+Titania's Boon 0.7
+Titania's Chosen 0.4
+Tolarian Academy 0.2
+Tolarian Winds 0.5
+Torch Song 0.8
+Treefolk Seedlings 0.5
+Treetop Rangers 0.6
+Turnabout 0.8
+Umbilicus 0.5
+Unnerve 0.5
+Unworthy Dead 0.7
+Urza's Armor 0.5
+Vampiric Embrace 0.7
+Vebulid 0.6
+Veil of Birds 0.5
+Veiled Apparition 0.7
+Veiled Crocodile 0.5
+Veiled Sentry 0.6
+Veiled Serpent 0.6
+Venomous Fangs 0.5
+Vernal Bloom 0.4
+Viashino Outrider 0.55
+Viashino Runner 0.5
+Viashino Sandswimmer 0.5
+Viashino Weaponsmith 0.5
+Victimize 0.7
+Vile Requiem 0.9
+Voice of Grace 0.7
+Voice of Law 0.7
+Voltaic Key 0.2
+Vug Lizard 0.6
+Wall of Junk 0.5
+War Dance 0.7
+Waylay 0.7
+Western Paladin 0.8
+Whetstone 0.5
+Whirlwind 0.6
+Wild Dogs 0.6
+Wildfire 1.0
+Windfall 0.5
+Winding Wurm 0.7
+Wirecat 0.3
+Witch Engine 0.6
+Wizard Mentor 0.6
+Worn Powerstone 0.6
+Worship 1.0
+Yawgmoth's Edict 0.4
+Yawgmoth's Will 0.7
+Zephid 0.6
+Zephid's Embrace 0.8
+
+; Unglued
+
+Ashnod's Coupon 0.2
+B.F.M. (Big Furry Monster) 0.1
+Blacker Lotus 0.4
+Bronze Calendar 0.4
+Bureaucracy 0.2
+Burning Cinder Fury of Crimson Chaos Fire 0.2
+Cardboard Carapace 0.3
+Censorship 0.3
+Chaos Confetti 0.2
+Charm School 0.4
+Checks and Balances 0.2
+Chicken a la King 0.4
+Chicken Egg 0.35
+Clam Session 0.5
+Clambassadors 0.5
+Clam-I-Am 0.3
+Clay Pigeon 0.35
+Common Courtesy 0.6
+Deadhead 0.5
+Denied! 0.4
+Double Cross 0.7
+Double Deal 0.31
+Double Dip 0.1
+Double Play 0.4
+Double Take 0.6
+Elvish Impersonators 0.5
+Flock of Rabid Sheep 0.36
+Fowl Play 0.45
+Free-for-All 0.8
+Free-Range Chicken 0.44
+Gerrymandering 0.2
+Get a Life 0.38
+Ghazban Ogress 0.3
+Giant Fan 0.4
+Goblin Bookie 0.35
+Goblin Bowling Team 0.45
+Goblin Tutor 0.32
+Growth Spurt 0.6
+Gus 0.4
+Handcuffs 0.5
+Hungry Hungry Heifer 0.32
+Hurloon Wrangler 0.5
+I'm Rubber, You're Glue 0.4
+Incoming! 0.1
+Infernal Spawn of Evil 0.5
+Jack-in-the-Mox 0.5
+Jalum Grifter 0.55
+Jester's Sombrero 0.2
+Jumbo Imp 0.6
+Knight of the Hokey Pokey 0.7
+Krazy Kow 0.5
+Landfill 0.5
+Lexivore 0.6
+Look at Me, I'm the DCI 0.3
+Mesa Chicken 0.6
+Mine, Mine, Mine! 0.45
+Mirror Mirror 0.4
+Miss Demeanor 0.7
+Once More with Feeling 0.5
+Organ Harvest 0.31
+Ow 0.2
+Paper Tiger 0.4
+Poultrygeist 0.5
+Prismatic Wardrobe 0.55
+Psychic Network 0.1
+Ricochet 0.2
+Rock Lobster 0.4
+Scissors Lizard 0.4
+Sex Appeal 0.4
+Sorry 0.2
+Spark Fiend 0.3
+Spatula of the Ages 0.5
+Squirrel Farm 0.6
+Strategy, Schmategy 0.3
+Team Spirit 0.56
+Temp of the Damned 0.5
+The Cheese Stands Alone 0.1
+The Ultimate Nightmare of Wizards of the Coast(R) Customer Service 0.9
+Timmy, Power Gamer 0.7
+Urza's Contact Lenses 0.2
+Urza's Science Fair Project 0.7
+Volrath's Motion Sensor 0.4
+
+;  Tempest
+
+Abandon Hope 0.25
+Advance Scout 0.5
+Aftershock 0.6
+Altar of Dementia 0.25
+Aluren 0.3
+Ancient Runes 0.0
+Ancient Tomb 0.2
+Angelic Protector 0.6
+Anoint 0.4
+Apes of Rath 0.7
+Apocalypse 0.7
+Armored Pegasus 0.3
+Armor Sliver 0.45
+Auratog 0.3
+Avenging Angel 0.7
+Barbed Sliver 0.7
+Bayou Dragonfly 0.3
+Bellowing Fiend 0.8
+Benthic Behemoth 0.55
+Blood Frenzy 0.35
+Blood Pet 0.1
+Boil 0.4
+Booby Trap 0.5
+Bottle Gnomes 0.5
+Bounty Hunter 1.1
+Broken Fall 0.5
+Broken Visage 0.75
+Caldera Lake 0.3
+Canopy Spider 0.4
+Canyon Drake 0.4
+Canyon Wildcat 0.6
+Capsize 0.7
+Carrionette 0.7
+Chaotic Goo 0.6
+Charging Rhino 0.7
+Chill 0.4
+Choke 0.4
+Cinder Marsh 0.3
+Circle of Protection: Black 0.4
+Circle of Protection: Blue 0.4
+Circle of Protection: White 0.4
+Circle of Protection: Red 0.4
+Circle of Protection: Green 0.4
+Circle of Protection: Shadow 0.3
+Clergy en-Vec 0.35
+Clot Sliver 0.6
+Cloudchaser Eagle 0.45
+Coercion 0.5
+Coffin Queen 1.0
+Coiled Tinviper 0.5
+Cold Storage 0.5
+Commander Greven il-Vec 0.8
+Corpse Dance 0.6
+Counterspell 0.6
+Crazed Armodon 0.6
+Crown of Flames 0.5
+Cursed Scroll 1.0
+Dark Banishing 0.6
+Darkling Stalker 0.7
+Dark Ritual 0.2
+Dauthi Embrace 0.5
+Dauthi Ghoul 0.5
+Dauthi Horror 0.6
+Dauthi Marauder 0.65
+Dauthi Mercenary 0.7
+Dauthi Mindripper 0.6
+Dauthi Slayer 0.6
+Deadshot 0.6
+Death Pits of Rath 0.3
+Diabolic Edict 0.4
+Dirtcowl Wurm 0.8
+Disenchant 0.4
+Dismiss 0.6
+Disturbed Burial 0.65
+Dracoplasm 0.4
+Dread of Night 0.35
+Dream Cache 0.4
+Dregs of Sorrow 1.1
+Duplicity 0.2
+Earthcraft 0.25
+Echo Chamber 0.7
+Eladamri, Lord of Leaves 0.5
+Eladamri's Vineyard 0.2
+Elite Javelineer 0.5
+Elven Warhounds 0.5
+Elvish Fury 0.7
+Emerald Medallion 0.2
+Emmessi Tome 0.8
+Endless Scream 0.35
+Energizer 0.7
+Enfeeblement 0.5
+Enraging Licid 0.45
+Ertai's Meddling 0.35
+Escaped Shapeshifter 0.6
+Essence Bottle 0.2
+Evincar's Justice 0.9
+Excavator 0.2
+Extinction 0.9
+Fevered Convulsions 0.8
+Field of Souls 0.3
+Fighting Drake 0.7
+Firefly 0.4
+Fireslinger 0.9
+Flailing Drake 0.5
+Flickering Ward 0.6
+Flowstone Giant 0.7
+Flowstone Salamander 0.75
+Flowstone Sculpture 0.7
+Flowstone Wyvern 0.8
+Fool's Tome 0.7
+Frog Tongue 0.4
+Fugitive Druid 0.4
+Furnace of Rath 0.45
+Fylamarid 0.4
+Gallantry 0.5
+Gaseous Form 0.35
+Gerrard's Battle Cry 0.6
+Ghost Town 0.2
+Giant Crab 0.4
+Giant Strength 0.4
+Goblin Bombardment 0.5
+Gravedigger 0.65
+Grindstone 0.4
+Hand to Hand 0.2
+Hanna's Custody 0.0
+Harrow 0.6
+Havoc 0.25
+Heart Sliver 0.3
+Heartwood Dryad 0.5
+Heartwood Giant 0.6
+Heartwood Treefolk 0.5
+Helm of Possession 0.8
+Hero's Resolve 0.3
+Horned Sliver 0.4
+Horned Turtle 0.4
+Humility 0.4
+Imps' Taunt 0.55
+Insight 0.6
+Interdict 0.45
+Intuition 0.7
+Invulnerability 0.55
+Jackal Pup 0.45
+Jet Medallion 0.2
+Jinxed Idol 0.1
+Kezzerdrix 0.85
+Kindle 0.6
+Knight of Dawn 0.75
+Knight of Dusk 0.75
+Krakilin 0.9
+Leeching Licid 0.4
+Legacy's Allure 0.78
+Legerdemain 0.75
+Lightning Blast 0.74
+Lightning Elemental 0.55
+Light of Day 0.4
+Living Death 0.9
+Lobotomy 0.25
+Lotus Petal 0.2
+Lowland Giant 0.6
+Maddening Imp 0.55
+Magmasaur 0.9
+Magnetic Web 0.26
+Manakin 0.4
+Mana Severance 0.4
+Manta Riders 0.35
+Marble Titan 0.8
+Marsh Lurker 0.5
+Master Decoy 0.9
+Mawcor 0.8
+Maze of Shadows 0.3
+Meditate 0.5
+Metallic Sliver 0.2
+Mindwhip Sliver 0.3
+Minion of the Wastes 0.6
+Mirri's Guile 0.4
+Mnemonic Sliver 0.5
+Mogg Cannon 0.3
+Mogg Conscripts 0.45
+Mogg Fanatic 0.5
+Mogg Hollows 0.3
+Mogg Raider 0.5
+Mogg Squad 0.25
+Mongrel Pack 0.6
+Mounted Archers 0.55
+Muscle Sliver 0.6
+Natural Spring 0.25
+Nature's Revolt 0.2
+Needle Storm 0.4
+No Quarter 0.5
+Nurturing Licid 0.5
+Opportunist 0.6
+Oracle en-Vec 0.65
+Orim, Samite Healer 0.6
+Orim's Prayer 0.45
+Overrun 1.1
+Pacifism 0.9
+Pack Hunt 0.45
+Pallimud 0.5
+Patchwork Gnomes 0.5
+Pearl Medallion 0.2
+Pegasus Refuge 0.7
+Perish 0.9
+Phyrexian Grimoire 0.7
+Phyrexian Hulk 0.65
+Phyrexian Splicer 0.4
+Pincher Beetles 0.5
+Pine Barrens 0.3
+Pit Imp 0.4
+Power Sink 0.75
+Precognition 0.5
+Propaganda 0.7
+Puppet Strings 0.9
+Quickening Licid 0.7
+Rain of Tears 0.3
+Rampant Growth 0.35
+Ranger en-Vec 0.65
+Rathi Dragon 1.1
+Rats of Rath 0.5
+Reality Anchor 0.35
+Reanimate 0.5
+Reap 0.46
+Reckless Spite 0.8
+Recycle 0.8
+Reflecting Pool 0.4
+Renegade Warlord 0.7
+Repentance 0.7
+Respite 0.6
+Rolling Thunder 1.1
+Rootbreaker Wurm 0.75
+Root Maze 0.1
+Rootwalla 0.6
+Rootwater Depths 0.3
+Rootwater Diver 0.25
+Rootwater Hunter 0.7
+Rootwater Matriarch 0.7
+Rootwater Shaman 0.4
+Ruby Medallion 0.2
+Sacred Guide 0.4
+Sadistic Glee 0.35
+Safeguard 0.6
+Salt Flats 0.3
+Sandstone Warrior 0.55
+Sapphire Medallion 0.2
+Sarcomancy 0.45
+Scabland 0.3
+Scalding Tongs 0.1
+Scorched Earth 0.1
+Scragnoth 0.5
+Screeching Harpy 0.7
+Scroll Rack 0.8
+Sea Monster 0.6
+Searing Touch 0.7
+Seeker of Skybreak 0.55
+Segmented Wurm 0.75
+Selenia, Dark Angel 0.85
+Serene Offering 0.3
+Servant of Volrath 0.3
+Shadow Rift 0.45
+Shadowstorm 0.4
+;Shatter 0.4
+Shimmering Wings 0.25
+Shocker 0.3
+Skyshroud Condor 0.65
+Skyshroud Elf 0.55
+Skyshroud Forest 0.3
+Skyshroud Ranger 0.35
+Skyshroud Troll 0.75
+Skyshroud Vampire 0.8
+Sky Spirit 0.7
+Soltari Crusader 0.7
+Soltari Emissary 0.7
+Soltari Foot Soldier 0.41
+Soltari Guerrillas 0.8
+Soltari Lancer 0.6
+Soltari Monk 0.72
+Soltari Priest 0.72
+Soltari Trooper 0.6
+Souldrinker 0.65
+Spell Blast 0.5
+Spike Drone 0.5
+Spinal Graft 0.45
+Spirit Mirror 0.6
+Spontaneous Combustion 0.8
+Squee's Toy 0.5
+Stalking Stones 0.45
+Starke of Rath 0.45
+Static Orb 0.2
+Staunch Defenders 0.45
+Steal Enchantment 0.4
+Stinging Licid 0.39
+Stone Rain 0.25
+Storm Front 0.35
+Stun 0.45
+Sudden Impact 0.45
+Tahngarth's Rage 0.5
+Talon Sliver 0.3
+Telethopter 0.5
+Thalakos Dreamsower 0.7
+Thalakos Lowlands 0.3
+Thalakos Mistfolk 0.5
+Thalakos Seer 0.45
+Thalakos Sentry 0.3
+Thumbscrews 0.2
+Time Ebb 0.6
+Time Warp 0.9
+Tooth and Claw 0.8
+Torture Chamber 0.7
+Tradewind Rider 0.9
+Trained Armodon 0.6
+Tranquility 0.31
+Trumpeting Armodon 0.6
+Twitch 0.5
+Unstable Shapeshifter 0.5
+Vec Townships 0.3
+Verdant Force 1.2
+Verdigris 0.3
+Vhati il-Dal 0.8
+Volrath's Curse 0.7
+Wall of Diffusion 0.6
+Warmth 0.25
+Wasteland 0.35
+Watchdog 0.4
+Whim of Volrath 0.2
+Whispers of the Muse 0.8
+Wild Wurm 0.55
+Wind Dancer 0.3
+Wind Drake 0.6
+Winds of Rath 1.2
+Winged Sliver 0.4
+Winter's Grasp 0.2
+Wood Sage 0.35
+Worthy Cause 0.3
+
+; Stronghold
+
+Acidic Sliver 0.6
+Amok 0.5
+Awakening 0.1
+Bandage 0.5
+Bottomless Pit 0.1
+Brush With Death 0.5
+Bullwhip 0.6
+Burgeoning 0.3
+Calming Licid 0.7
+Cannibalize 0.6
+Carnassid 0.7
+Change of Heart 0.4
+Cloud Spirit 0.7
+Constant Mists 0.7
+Contemplation 0.2
+Contempt 0.4
+Conviction 0.6
+Convulsing Licid 0.35
+Corrupting Licid 0.6
+Craven Giant 0.4
+Crossbow Ambush 0.35
+Crovax the Cursed 0.9
+Crystalline Sliver 0.6
+Dauthi Trapper 0.4
+Death Stroke 0.73
+Dream Halls 0.3
+Dream Prowler 0.4
+Duct Crawler 0.55
+Dungeon Shade 0.6
+Elven Rite 0.6
+Endangered Armodon 0.5
+Ensnaring Bridge 0.8
+Evacuation 0.3
+Fanning the Flames 0.8
+Flame Wave 0.78
+Fling 0.31
+Flowstone Blade 0.2
+Flowstone Hellion 0.8
+Flowstone Mauler 0.8
+Flowstone Shambler 0.7
+Foul Imp 0.6
+Furnace Spirit 0.6
+Gliding Licid 0.6
+Grave Pact 1.0
+Hammerhead Shark 0.61
+Heartstone 0.1
+Heat of Battle 0.2
+Hermit Druid 0.5
+Hesitation 0.5
+Hibernation Sliver 0.62
+Hidden Retreat 0.3
+Honor Guard 0.4
+Hornet Cannon 0.65
+Horn of Greed 0.1
+Intruder Alarm 0.1
+Invasion Plans 0.1
+Jinxed Ring 0.1
+Lab Rats 0.52
+Lancers en-Kor 0.8
+Leap 0.45
+Lowland Basilisk 0.6
+Mana Leak 0.7
+Mask of the Mimic 0.4
+Megrim 0.1
+Mind Games 0.6
+Mind Peel 0.6
+Mindwarper 0.7
+Mob Justice 0.6
+Mogg Bombers 0.6
+Mogg Flunkies 0.7
+Mogg Infestation 0.5
+Mogg Maniac 0.3
+Morgue Thrull 0.4
+Mortuary 0.2
+Mox Diamond 0.4
+Mulch 0.2
+Nomads en-Kor 0.5
+Overgrowth 0.5
+Portcullis 0.3
+Primal Rage 0.2
+Provoke 0.5
+Pursuit of Knowledge 0.7
+Rabid Rats 0.5
+Ransack 0.1
+Rebound 0.1
+Reins of Power 0.35
+Revenant 0.7
+Rolling Stones 0.1
+Ruination 0.1
+Sacred Ground 0.1
+Samite Blessing 0.4
+Scapegoat 0.3
+Seething Anger 0.3
+Serpent Warrior 0.55
+Shaman en-Kor 0.7
+Shard Phoenix 0.8
+Shifting Wall 0.7
+Shock 0.7
+Sift 0.72
+Silver Wyvern 0.8
+Skeleton Scavengers 0.7
+Skyshroud Archer 0.3
+Skyshroud Falcon 0.3
+Skyshroud Troopers 0.6
+Sliver Queen 0.35
+Smite 0.7
+Soltari Champion 0.8
+Spike Breeder 0.75
+Spike Colony 0.8
+Spike Feeder 0.8
+Spike Soldier 0.74
+Spike Worker 0.7
+Spindrift Drake 0.7
+Spined Sliver 0.6
+Spined Wurm 0.65
+Spirit en-Kor 0.73
+Spitting Hydra 0.8
+Stronghold Assassin 0.9
+Stronghold Taskmaster 0.55
+Sword of the Chosen 0.2
+Temper 0.6
+Tempting Licid 0.65
+Thalakos Deceiver 0.8
+Tidal Surge 0.6
+Tidal Warrior 0.34
+Torment 0.3
+Tortured Existence 0.5
+Venerable Monk 0.42
+Verdant Touch 0.6
+Victual Sliver 0.4
+Volrath's Gardens 0.5
+Volrath's Laboratory 1.0
+Volrath's Shapeshifter 0.41
+Volrath's Stronghold 0.6
+Walking Dream 0.5
+Wall of Blossoms 0.6
+Wall of Essence 0.6
+Wall of Razors 0.6
+Wall of Souls 0.6
+Wall of Tears 0.6
+Warrior Angel 0.8
+Warrior en-Kor 0.7
+Youthful Knight 0.6
+
+;Onslaught
+;White 
+
+Akroma's Blessing 0.4
+Akroma's Vengeance 1.0
+Ancestor's Prophet 0.5
+Astral Slide 0.4
+Aura Extraction 0.2
+Aurification 0.3
+Aven Brigadier 1.0
+Aven Soulgazer 0.8
+Battlefield Medic 0.6
+Catapult Master 0.5
+Catapult Squad 0.6
+Chain of Silence 0.3
+Circle of Solace 0.5 
+Convalescent Care 0.6
+Crowd Favorites 0.2
+Crown of Awe 0.4
+Crude Rampart 0.5
+Daru Cavalier 0.2+CountBy(Name,"Daru Cavalier",0.1)
+Daru Healer 0.4
+Daru Lancer 0.8
+Daunting Defender 0.5
+Dawning Purist 0.3
+Defensive Maneuvers 0.3
+Demystify 0.2
+Disciple of Grace 0.4
+Dive Bomber 0.35
+Doubtless One 0.3
+Exalted Angel 1.0
+Foothill Guide 0.3
+Glarecaster 0.9
+Glory Seeker 0.7
+Grassland Crusader 0.2
+Gravel Slinger 0.4
+Gustcloak Harrier 0.9
+Gustcloak Runner 0.3
+Gustcloak Savior 1.0
+Gustcloak Sentinel 0.5
+Gustcloak Skirmisher 0.6
+Harsh Mercy 0.9
+Improvised Armor 0.5
+Inspirit 0.6
+Ironfist Crusher 0.3
+Jareth, Leonine Titan 1.0
+Mobilization 0.8
+Nova Cleric 0.4
+Oblation  0.8
+Pacifism 0.9
+Pearlspear Courier 0.5
+Piety Charm 0.4
+Renewed Faith 0.4
+Righteous Cause 0.7
+Sandskin 0.4
+Shared Triumph 0.7
+Shieldmage Elder 0.4
+Sigil of the New Dawn 1.0
+Sunfire Balm 0.5
+True Believer 0.6
+Unified Strike 0.3
+Weathered Wayfarer 0.9
+Whipcorder 0.9
+Words of Worship 0.1
+
+;Blue
+
+Airborne Aid 0.2
+Annex 0.3
+Aphetto Alchemist 0.4
+Aphetto Grifter 0.8
+Arcanis the Omnipotent 1.0
+Artificial Evolution 0.2
+Ascending Aven 0.7
+Aven Fateshaper 0.7
+Backslide 0.3
+Blatant Thievery 0.8
+Callous Oppressor 1.0
+Chain of Vapor 0.6
+Choking Tethers 0.6
+Clone 0.8
+Complicate 0.7
+Crafty Pathmage 0.2
+Crown of Ascension 0.2
+Discombobulate 0.5
+Dispersing Orb 0.8
+Disruptive Pitmage 0.4
+Essence Fracture 0.4
+Fleeting Aven 0.5
+Future Sight 1.0
+Ghosthelm Courier 0.41
+Graxiplon 0.2
+Imagecrafter 0.35
+Information Dealer 0.25
+Ixidor, Reality Sculptor 0.5
+Ixidor's Will 0.2
+Mage's Guile 0.4
+Meddle 0.5
+Mistform Dreamer 0.7
+Mistform Mask 0.6
+Mistform Mutant 0.3
+Mistform Shrieker 0.7
+Mistform Skyreaver 0.9
+Mistform Stalker 0.4
+Mistform Wall 0.6
+Nameless One 0.2
+Peer Pressure 0.2
+Psychic Trance 0.5
+Quicksilver Dragon 1.0
+Read the Runes 0.5
+Reminisce 0.1
+Riptide Biologist 0.5
+Riptide Chronologist 0.0
+Riptide Entrancer 0.25
+Riptide Shapeshifter 0.7
+Rummaging Wizard 0.2
+Sage Aven 0.35
+Screaming Seahawk 0.2+CountBy(Name,"Screaming Seahawk",0.1)
+Sea's Claim 0.0
+Slipstream Eel 0.5
+Spy Network 0.2
+Standardize 0.0
+Supreme Inquisitor 0.3
+Trade Secrets 0.2
+Trickery Charm 0.2
+Voidmage Prodigy 0.8
+Wheel and Deal 0.0
+Words of Wind 0.0
+
+;Black 
+Accursed Centaur 0.0
+Anurid Murkdiver 0.4
+Aphetto Dredging 0.6
+Aphetto Vulture 0.3
+Blackmail 0.6
+Boneknitter 0.7
+Cabal Archon 0.6+CountBy(SubType,Cleric,0.08)
+Cabal Executioner 0.3
+Cabal Slaver 0.3+CountBy(SubType,Goblin,0.01)
+Chain of Smog 0.5
+Cover of Darkness 0.7
+Crown of Suspicion 0.6
+Cruel Revival 0.9
+Death Match 0.5
+Death Pulse 0.8
+Dirge of Dread 0.5
+Disciple of Malice 0.4
+Doomed Necromancer 0.8
+Ebonblade Reaper 0.2
+Endemic Plague 0.3
+Entrails Feaster 0.2
+Fade from Memory 0.4
+Fallen Cleric 0.4
+False Cure 0.0
+Feeding Frenzy 0.2
+Festering Goblin 0.7
+Frightshroud Courier 0.6
+Gangrenous Goliath 0.7
+Gluttonous Zombie 0.6
+Gravespawn Sovereign 0.5
+Grinning Demon 0.7
+Haunted Cadaver 0.4
+Head Games 0.3
+Headhunter 0.7
+Infest 1.0
+Misery Charm 0.25+2*CountBy(SubType,Cleric,0.01)
+Nantuko Husk 0.75
+Oversold Cemetery 1.0
+Patriarch's Bidding 0.6
+Profane Prayers 0.2+2*CountBy(SubType,Cleric,0.01)
+Prowling Pangolin 0.8
+Rotlung Reanimator 0.35+CountBy(SubType,Cleric,0.08)
+Screeching Buzzard 0.7
+Severed Legion 0.65
+Shade's Breath 0.4
+Shepherd of Rot 0.5
+Silent Specter 1.0
+Smother 0.7
+Soulless One 0.3+1.5*CountBy(SubType,Zombie,0.03)
+Spined Basher 0.4
+Strongarm Tactics 0.7
+Swat 0.8
+Syphon Mind 0.2
+Syphon Soul 0.2
+Thrashing Mudspawn 0.5
+Undead Gladiator 0.7
+Visara the Dreadful 1.3
+Walking Desecration 0.7
+Withering Hex 0.2
+Words of Waste 0.2 
+Wretched Anurid 0.4
+
+;Red
+Aether Charge 0.5
+Aggravated Assault 0.4
+Airdrop Condor 0.35+2.5*CountBy(SubType,Goblin,0.01)
+Avarax 0.6+CountBy(Name,"Avarax",0.1)
+Battering Craghorn 0.6
+Blistering Firecat 0.7
+Break Open 0.1
+Brightstone Ritual 0.0
+Butcher Orgg 0.9
+Chain of Plasma 0.8
+Charging Slateback 0.4
+Commando Raid 0.5
+Crown of Fury 0.55
+Custody Battle 0.5
+Dragon Roost 0.9
+Dwarven Blastminer 0.3
+Embermage Goblin 0.7+2*CountBy(Name,"Embermage Goblin",0.1)
+Erratic Explosion 0.6
+Fever Charm 0.4
+Flamestick Courier 0.5
+Goblin Machinist 0.6
+Goblin Piledriver 0.3+2*CountBy(SubType,Goblin,0.03)
+Goblin Pyromancer 0.1
+Goblin Sharpshooter 1.0
+Goblin Sky Raider 0.2
+Goblin Sledder 0.5
+Goblin Taskmaster 0.5
+Grand Melee 0.4
+Gratuitous Violence 0.8
+Insurrection 0.9
+Kaboom! 0.2
+Lavamancer's Skill 0.4+CountBy(SubType,Wizard,0.05)
+Lay Waste 0.3
+Lightning Rift 0.2+1.2*CountBy(Text,Cycling,0.05)
+Mana Echoes 0.1
+Menacing Ogre 0.9
+Nosy Goblin 0.3
+Pinpoint Avalanche 0.75
+Reckless One 0.2+CountBy(SubType,Goblin,0.03)
+Risky Move 0.1
+Rorix Bladewing 1.1
+Searing Flesh 0.6
+Shaleskin Bruiser 0.4
+Shock 0.85
+Skirk Commando 0.71
+Skirk Fire Marshal 0.2
+Skirk Prospector 0.2
+Skittish Valesk 0.2
+Slice and Dice 0.9
+Snapping Thragg 0.5
+Solar Blast 0.8
+Sparksmith 1.1
+Spitfire Handler 0.5
+Spurred Wolverine 0.2
+Starstorm 1.0
+Tephraderm 0.9
+Thoughtbound Primoc 0.6
+Threaten 0.7
+Thunder of Hooves 0.2+3*CountBy(SubType,Beast,0.02)
+Wave of Indifference 0.5
+Words of War 0.8
+
+;Green
+
+Animal Magnetism 0.3
+Barkhide Mauler 0.6
+Biorhythm 0.2
+Birchlore Rangers 0.3
+Bloodline Shaman 0.3
+Broodhatch Nantuko 0.4
+Centaur Glade 0.8
+Chain of Acid 0.4
+Crown of Vigor 0.2
+Elven Riders 0.7
+Elvish Guidance 0.1
+Elvish Pathcutter 0.2
+Elvish Pioneer 0.2
+Elvish Scrapper 0.2
+Elvish Vanguard 0.4
+Elvish Warrior 0.7
+Enchantress's Presence 0.0
+Everglove Courier 0.3
+Explosive Vegetation 0.7
+Gigapede 0.8
+Heedless One 0.2+2*CountBy(SubType,Elf,0.02)
+Hystrodon 0.8
+Invigorating Boon 0.3
+Kamahl, Fist of Krosa 1.1
+Kamahl's Summons 0.0
+Krosan Colossus 0.5
+Krosan Groundshaker 0.4
+Krosan Tusker 0.66
+Leery Fogbeast 0.45
+Mythic Proportions 1.0
+Naturalize 0.3
+Overwhelming Instinct 0.2
+Primal Boost 0.8
+Ravenous Baloth 0.9
+Run Wild 0.5
+Serpentine Basilisk 0.6
+Silklash Spider 0.9
+Silvos, Rogue Elemental 1.1
+Snarling Undorak 0.91
+Spitting Gourna 0.7
+Stag Beetle 0.9
+Steely Resolve 0.4
+Symbiotic Beast 0.5+4*CountBy(Name,"Nantuko Husk",0.025)
+Symbiotic Elf 0.5+4*CountBy(Name,"Nantuko Husk",0.025)
+Symbiotic Wurm 0.6+4*CountBy(Name,"Nantuko Husk",0.025)
+Taunting Elf 0.4
+Tempting Wurm 0.4
+Towering Baloth 0.5
+Treespring Lorian 0.5
+Tribal Unity 0.4
+Venomspout Brackus 0.8
+Vitality Charm 0.6
+Voice of the Woods 0.25+3*CountBy(SubType,Elf,0.005)
+Wall of Mulch 0.6
+Weird Harvest 0.0
+Wellwisher 0.34+2*CountBy(SubType,Elf,0.02)
+Wirewood Elf 0.6
+Wirewood Herald 0.3+2*CountBy(SubType,Elf,0.01)
+Wirewood Pride 0.1+2.5*CountBy(SubType,Elf,0.02)
+Wirewood Savage 0.9+0*CountBy(SubType,Beast,0.06)
+Words of Wilding 0.3
+
+;Lands & Artifacts
+
+Grand Coliseum 0.5
+Doom Cannon 0.7
+Dream Chisel 0.0
+Riptide Replicator 0.8
+Slate of Ancestry 0.8
+Tribal Golem 0.6
+
+;Legions
+;White
+
+Akroma, Angel of Wrath 1.1
+Akroma's Devoted 0.5
+Aven Redeemer 0.7
+Aven Warhawk 0.4+CountBy(SubType,Soldier,0.02)
+Beacon of Destiny 0.5
+Celestial Gatekeeper 0.6+CountBy(SubType,Cleric,0.02)+CountBy(SubType,Bird,0.02)
+Cloudreach Cavalry 0.45+CountBy(SubType,Bird,0.08)
+Daru Mender 0.2
+Daru Sanctifier 0.4
+Daru Stinger 0.6+1.1*CountBy(SubType,Soldier,0.05)
+Defender of the Order 0.4
+Deftblade Elite 0.7
+Essence Sliver 0.8
+Gempalm Avenger 0.3+CountBy(SubType,Soldier,0.04)
+Glowrider 0.0
+Liege of the Axe 0.4
+Lowland Tracker 0.3
+Planar Guide 0.5
+Plated Sliver 0.2
+Starlight Invoker 0.35
+Stoic Champion 0.7
+Sunstrike Legionnaire 0.6
+Swooping Talon 0.4
+Wall of Hope 0.4
+Ward Sliver 0.2
+Whipgrass Entangler 0.65+0.5*CountBy(SubType,Cleric,0.08)
+White Knight 0.6
+Windborn Muse 1.0
+Wingbeat Warrior 0.7
+
+;blUe
+
+Aven Envoy 0.0
+Cephalid Pathmage 0.2
+Chromeshell Crab 0.9
+Covert Operative 0.6
+Crookclaw Elder 0.4
+Dermoplasm 0.3
+Dreamborn Muse 0.2
+Echo Tracer 0.5
+Fugitive Wizard 0.0
+Gempalm Sorcerer 0.3
+Glintwing Invoker 0.4
+Keeneye Aven 0.7
+Keeper of the Nine Gales 0.3+4*CountBy(SubType,Bird,0.01)
+Master of the Veil 0.5
+Merchant of Secrets 0.2
+Mistform Seaswift 0.7
+Mistform Sliver 0.2
+Mistform Ultimus 0.6
+Mistform Wakecaster 0.4
+Primoc Escapee 0.5
+Riptide Director 0.8
+Riptide Mangler 0.6
+Shifting Sliver 0.4
+Synapse Sliver 0.5
+Voidmage Apprentice 0.3
+Wall of Deceit 0.5
+Warped Researcher 0.6
+Weaver of Lies 0.8
+Willbender 0.6
+
+;Black
+
+Aphetto Exterminator 0.9
+Bane of the Living 1.2
+Blood Celebrant 0.0
+Corpse Harvester 0.8
+Crypt Sliver 0.5
+Dark Supplicant 0.0+100*CountBy(Name,"Scion of Darkness",0.05)*CountBy(SubType,Cleric,0.01)
+Deathmark Prelate 0.7
+Drinker of Sorrow 0.4
+Dripping Dead 0.1
+Earthblighter 0.0
+Embalmed Brawler 0.6
+Gempalm Polluter 0.3+CountBy(SubType,Zombie,0.04)
+Ghastly Remains 0.2
+Goblin Turncoat 0.5
+Graveborn Muse 1.0
+Havoc Demon 0.8
+Hollow Specter 0.9
+Infernal Caretaker 0.5
+Noxious Ghoul 0.85+0.2*CountBy(SubType,Zombie,0.08)
+Phage the Untouchable 0.5
+Scion of Darkness 0.71
+Skinthinner 0.85
+Smokespew Invoker 0.7
+Sootfeather Flock 0.6
+Spectral Sliver 0.75
+Toxin Sliver 0.7
+Vile Deacon 0.6
+Withered Wretch 0.6
+Zombie Brute 0.3
+
+;Green
+
+Berserk Murlodont 0.5
+Branchsnap Lorian 0.7
+Brontotherium 0.6
+Brood Sliver 0.4
+Caller of the Claw 0.8
+Canopy Crawler 0.9
+Defiant Elf 0.0
+Elvish Soultiller 0.7
+Enormous Baloth 0.4
+Feral Throwback 0.9
+Gempalm Strider 0.6+0.5*CountBy(SubType,Elf,0.03)
+Glowering Rogon 0.4
+Hundroog 0.3
+Krosan Cloudscraper 0.4
+Krosan Vorine 0.8
+Nantuko Vigilante 0.5
+Needleshot Gourna 0.6
+Patron of the Wild 0.5
+Primal Whisperer 0.6
+Quick Sliver 0.0
+Root Sliver 0.0
+Seedborn Muse 0.8
+Stonewood Invoker 0.75
+Timberwatch Elf 0.8+0.5*CountBy(SubType,Elf,0.07)
+Totem Speaker 0.4
+Tribal Forcemage 0.8
+Vexing Beetle 0.2
+Wirewood Channeler 0.7
+Wirewood Hivemaster 0.3+3*CountBy(SubType,Elf,0.01)
+
+;Red
+
+Blade Sliver 0.4
+Bloodstoke Howler 0.5
+Clickslither 0.2+CountBy(SubType,Goblin,0.05)
+Crested Craghorn 0.6
+Flamewave Invoker 0.4
+Frenetic Raptor 0.7+3*CountBy(SubType,Beast,-0.01)
+Gempalm Incinerator 0.45*1.2*CountBy(SubType,Goblin,0.03)
+Goblin Assassin 0.2
+Goblin Clearcutter 0.1
+Goblin Dynamo 0.6
+Goblin Firebug 0.4
+Goblin Goon 0.7
+Goblin Grappler 0.31
+Goblin Lookout 0.2
+Hunter Sliver 0.3
+Imperial Hellkite 0.9
+Kilnmouth Dragon 0.9
+Lavaborn Muse 0.9
+Macetail Hystrodon 0.4
+Magma Sliver 0.5
+Ridgetop Raptor 0.4
+Rockshard Elemental 0.5
+Shaleskin Plower 0.3
+Skirk Alarmist 0.0
+Skirk Drill Sergeant 0.4
+Skirk Marauder 0.7
+Skirk Outrider 0.2+1.5*CountBy(SubType,Beast,0.03)
+Unstable Hulk 0.6
+Warbreak Trumpeter 0.4
+
+;
+; Scourge
+;
+
+Ageless Sentinels 0.8
+Astral Steel 0.55
+Aven Farseer 0.72
+Aven Liberator 0.7
+Daru Spiritualist 0.5
+Daru Warchief 0.9
+Dawn Elemental 0.4
+Decree of Justice 1.0
+Dimensional Breach 0.2
+Dragon Scales 0.85
+Dragon Stalker 0.7
+Eternal Dragon 1.0
+Exiled Doomsayer 0.4
+Force Bubble 0.45
+Frontline Strategist 0.5+1.2*CountBy(SubType,Soldier,0.05)
+Gilded Light 0.3
+Guilty Conscience 0.3
+Karona's Zealot 0.7
+Noble Templar 0.8
+Rain of Blades 0.3
+Recuperate 0.2
+Reward the Faithful 0.1
+Silver Knight 0.7
+Trap Digger 0.4
+Wing Shards 0.9
+Wipe Clean 0.4
+Zealous Inquisitor 0.6
+
+; Blue
+
+Aphetto Runecaster 0.5
+Brain Freeze 0.1
+Coast Watcher 0.45
+Day of the Dragons 1.0
+Decree of Silence 0.2
+Dispersal Shield 0.5
+Dragon Wings 0.35
+Faces of the Past 0.1
+Frozen Solid 0.72
+Hindering Touch 0.4
+Long-Term Plans 0.6
+Mercurial Kite 0.5
+Metamorphose 0.6
+Mind's Desire 0.1
+Mischievous Quanar 0.6
+Mistform Warchief 0.2
+Parallel Thoughts 0.5
+Pemmin's Aura 0.8
+Raven Guild Initiate 0.7
+Raven Guild Master 0.3
+Riptide Survivor 0.5
+Rush of Knowledge 0.9
+Scornful Egotist 0.4
+Shoreline Ranger 0.8
+Stifle 0.4
+Temporal Fissure 0.2
+Thundercloud Elemental 0.6
+
+; Black
+
+Bladewing's Thrall 0.6
+Cabal Conditioning 0.1
+Cabal Interrogator 0.5
+Call to the Grave 1.0+CountBy(SubType,Zombie,0.05)
+Carrion Feeder 0.7
+Chill Haunting 0.6
+Clutch of Undeath 0.75
+Consumptive Goo 0.6
+Death's-Head Buzzard 0.5
+Decree of Pain 1.1
+Dragon Shadow 0.47
+Fatal Mutation 0.2
+Final Punishment 0.2
+Lethal Vapors 0.3
+Lingering Death 0.8
+Nefashu 0.9
+Putrid Raptor 0.4+0.5*CountBy(SubType,Zombie,0.05)
+Reaping the Graves 0.6
+Skull Tap 0.3
+Soul Collector 1.0
+Tendrils of Anguish 0.2
+Twisted Abomination 0.85
+Unburden 0.48
+Undead Warchief 0.7+2*CountBy(SubType,Zombie,0.02)
+Unspeakable Symbol 0.4
+Vengeful Dead 0.57
+Zombie Cutthroat 0.81
+
+; Red
+
+Bonethorn Valesk 0.5
+Carbonize 0.8
+Chartooth Cougar 0.65
+Decree of Annihilation 0.9
+Dragon Breath 0.4
+Dragon Mage 0.9
+Dragonspeaker Shaman 0.2
+Dragonstorm 0.2
+Dragon Tyrant 0.9
+Enrage 0.3
+Extra Arms 0.5
+Form of the Dragon 1.1
+Goblin Brigand 0.45
+Goblin Psychopath 0.2
+Goblin Warchief 0.4
+Goblin War Strike 0.1
+Grip of Chaos 0.1
+Misguided Rage 0.3
+Pyrostatic Pillar 0.2
+Rock Jockey 0.4
+Scattershot 0.65
+Siege-Gang Commander 1.0
+Skirk Volcanist 0.5
+Spark Spray 0.63
+Sulfuric Vortex 0.4
+Torrent of Fire 0.75
+Uncontrolled Infestation 0.1
+
+; Green
+
+Accelerated Mutation 0.6
+Alpha Status 0.9
+Ambush Commander 1.0
+Ancient Ooze 0.6
+Break Asunder 0.4
+Claws of Wirewood 0.45
+Decree of Savagery 0.8
+Divergent Growth 0.1
+Dragon Fangs 0.4
+Elvish Aberration 0.5
+Fierce Empath 0.7
+Forgotten Ancient 0.9
+Hunting Pack 0.9
+Krosan Drover 0.4
+Krosan Warchief 0.8
+Kurgadon 0.9
+One with Nature 0.2
+Primitive Echting 0.7
+Root Elemental 0.6
+Sprouting Vines 0.5
+Titanic Bulvox 0.6
+Treetop Scout 0.2
+Upwelling 0.1
+Wirewood Guardian 0.7
+Wirewood Symbiote 0.5
+Woodcloaker 0.5
+Xantid Swarm 0.1
+
+; Gold
+
+Bladewing the Risen 0.8
+Edgewalker 0.3
+Karona, False God 0.1
+Sliver Overlord 0.1
+Ark of Blight 0.2
+Proteus Machine 0.5
+Stabilizer 0.1
+
+; Land
+
+Temple of the False God 0.0
+
+; Mirrodin
+; White
+
+Altar's Light 0.8
+Arrest 0.85
+Auriok Bladewarden 0.74
+Auriok Steelshaper 1.0
+Auriok Transfixer 0.7
+Awe Strike 0.4
+Blinding Beam 0.45
+Leonin Abunas 0.75
+Leonin Den-Guard 0.68+2*CountBy(Subtype,Equipment,0.05)
+Leonin Elder 0.4
+Leonin Skyhunter 0.8
+Loxodon Mender 0.2
+Loxodon Peacekeeper 0.5
+Loxodon Punisher 0.4
+Luminous Angel 1.1
+Raise the Alarm 0.53
+Razor Barrier 0.5
+Roar of the Kha 0.5
+Rule of Law 0.1
+Second Sunrise 0.5
+Skyhunter Cub 0.75+2*CountBy(Subtype,Equipment,0.05)
+Skyhunter Patrol 0.8
+Slith Ascendant 0.9
+Solar Tide 1.2
+Soul Nova 0.85
+Sphere of Purity 0.2
+Taj-Nar Swordsmith 0.67
+Tempest of Light 0.2
+
+; Blue
+
+Annul 0.5
+Assert Authority 0.3+3*CountBy(Type,Artifact,0.01)
+Broodstar 0.8+CountBy(Type,Artifact,0.03)
+Disarm 0.4
+Domineer 0.8
+Dream's Grip 0.3
+Fabricate 0.5+3*CountBy(Type,Artifact,0.01)
+Fatespinner 0.6
+Inertia Bubble 0.7
+Looming Hoverguard 0.7
+Lumengrid Augur 0.9
+Lumengrid Sentinel 0.4
+Lumengrid Warden 0.4
+March of the Machines 0.4
+Neurok Familiar 0.3
+Neurok Spy 0.8
+Override 0.6
+Psychic Membrane 0.8
+Quicksilver Elemental 0.8
+Regress 0.5
+Shared Fate 0.25
+Slith Strider 0.4
+Somber Hoverguard 0.7
+Temporal Cascade 0.3
+Thirst for Knowledge 0.8
+Thoughtcast 0.5
+Vedalken Archmage 0.8
+Wanderguard Sentry 0.4
+
+; Black
+
+Barter in Blood 0.6
+Betrayal of Flesh 0.7
+Chimney Imp 0.4
+Consume Spirit 0.71
+Contaminated Bond 0.2
+Disciple of the Vault 0.5
+Dross Harvester 0.3
+Dross Prowler 0.5
+Flayed Nim 0.7
+Grim Reminder 0.4
+Irradiate 0.6+3*CountBy(Type,Artifact,0.01)
+Moriok Scavenger 0.6
+Necrogen Mists 0.3
+Nim Devourer 0.5
+Nim Lasher 0.4
+Nim Shambler 0.5
+Nim Shrieker 0.6
+Promise of Power 0.9
+Reaver Demon 0.8
+Relic Bane 0.7
+Slith Bloodletter 0.75
+Spoils of the Vault 0.3
+Terror 0.7
+Vermiculos 0.5
+Wail of the Nim 0.6
+Wall of Blood 0.7
+Woebearer 0.6
+Wrench Mind 0.4
+
+; Red
+
+Arc-Slogger 0.8
+Atog 0.8
+Confusion in the Ranks 0.2
+Detonate 0.8
+Electrostatic Bolt 0.8
+Fiery Gambit 0.3
+Fists of the Anvil 0.4
+Forge Armor 0.3
+Fractured Loyalty 0.4
+Goblin Striker 0.3
+Grab the Reins 0.8
+Incite War 0.45
+Krark-Clan Grunt 0.45
+Krark-Clan Shaman 0.4
+Mass Hysteria 0.1
+Megatog 1.0
+Molten Rain 0.3
+Ogre Leadfoot 0.4
+Rustmouth Ogre 0.7
+Seething Song 0.1
+Shatter 0.8
+Shrapnel Blast 0.8
+Slith Firewalker 0.6
+Spikeshot Goblin 1.0
+Trash for Treasure 0.5
+Vulshok Battlemaster 0.77
+Vulshok Berserker 0.69
+War Elemental 0.7
+
+; Green
+
+Battlegrowth 0.6
+Bloodscent 0.4
+Brown Ouphe 0.3
+Copperhoof Vorrac 0.8
+Creeping Mold 0.78
+Deconstruct 0.8
+Fangren Hunter 0.7
+Glissa Sunseeker 0.8
+Groffskithur 0.2
+Hum of the Radix 0.3
+Journey of Discovery 0.6
+Living Hive 0.6
+Molder Slug 0.8
+One Dozen Eyes 0.73
+Plated Slagwurm 0.9
+Predator's Strike 0.61
+Slith Predator 0.7
+Sylvan Scrying 0.6
+Tel-Jilad Archers 0.75
+Tel-Jilad Chosen 0.72
+Tel-Jilad Exile 0.6
+Tooth and Nail 0.4
+Troll Ascetic 0.9
+Trolls of Tel-Jilad 0.6
+Turn to Dust 0.5
+Viridian Joiner 0.4
+Viridian Shaman 0.81
+Wurmskin Forger 0.5
+
+; Artifact
+
+AEther Spellbomb 0.6
+Alpha Myr 0.5
+Altar of Shadows 0.8
+Banshee's Blade 0.9
+Blinkmoth Urn 0.2
+Bonesplitter 0.8
+Bosh, Iron Golem 0.9
+Bottle Gnomes 0.5
+Cathodian 0.7
+Chalice of the Void 0.2
+Chromatic Sphere 0.4
+Chrome Mox 0.6
+Clockwork Beetle 0.1
+Clockwork Condor 0.5
+Clockwork Dragon 1.0
+Clockwork Vorrac 0.8
+Cobalt Golem 0.7
+Copper Myr 0.5
+Crystal Shard 0.88
+Culling Scales 0.6
+Damping Matrix 0.9
+Dead-Iron Sledge 0.5
+Dragon Blood 0.7
+Dross Scorpion 0.5
+Duplicant 0.8
+Duskworker 0.6
+Elf Replica 0.5
+Empyrial Plate 0.9
+Extraplanar Lens 0.4
+Farsight Mask 0.5
+Fireshrieker 0.7
+Frogmite 0.4
+Galvanic Key 0.3
+Gate to the Aether 0.2
+Gilded Lotus 0.3
+Goblin Charbelcher 0.9
+Goblin Dirigible 0.75
+Goblin Replica 0.75
+Goblin War Wagon 0.7
+Gold Myr 0.5
+Golem-Skin Gauntlets 0.43
+Granite Shard 0.9
+Grid Monitor 0.6
+Heartwood Shard 0.2
+Hematite Golem 0.68
+Icy Manipulator 0.9
+Iron Myr 0.5
+Isochron Scepter 0.6
+Jinxed Choker 0.4
+Krark's Thumb 0.4
+Leaden Myr 0.5
+Leonin Bladetrap 0.45
+Leonin Scimitar 0.7
+Leonin Sun Standard 1.0
+Leveler 0.2
+Liar's Pendulum 0.55
+Lifespark Spellbomb 0.4
+Lightning Coils 0.5
+Lightning Greaves 0.81
+Lodestone Myr 0.55
+Loxodon Warhammer 0.9
+Malachite Golem 0.7
+Mask of Memory 0.8
+Mesmeric Orb 0.3
+Mind's Eye 0.7
+Mindslaver 0.7
+Mindstorm Crown 0.45
+Mirror Golem 0.79
+Mourner's Shield 0.6
+Myr Adapter 0.2
+Myr Enforcer 0.6
+Myr Incubator 0.6
+Myr Mindservant 0.1
+Myr Prototype 0.5
+Myr Retriever 0.5
+Necrogen Spellbomb 0.35
+Needlebug 0.5
+Neurok Hoversail 0.6
+Nightmare Lash 0.5
+Nim Replica 0.6
+Nuisance Engine 0.65
+Oblivion Stone 1.2
+Omega Myr 0.2
+Ornithopter 0.2
+Pearl Shard 0.7
+Pentavus 0.9
+Pewter Golem 0.7
+Platinum Angel 1.0
+Power Conduit 0.3
+Proteus Staff 0.5
+Psychogenic Probe 0.2
+Pyrite Spellbomb 0.7
+Quicksilver Fountain 0.1
+Rust Elemental 0.8
+Rustspore Ram 0.6
+Scale of Chiss-Goria 0.3
+Scribbling Claws 0.2
+Sculpting Steel 0.8
+Scythe of the Wretched 0.8
+Serum Tank 0.7
+Silver Myr 0.5
+Skeleton Shard 0.8
+Slagwurm Armor 0.4
+Soldier Replica 0.6
+Solemn Simulacrum 0.8
+Soul Foundry 1.1
+Spellweaver Helix 0.2
+Steel Wall 0.3
+Sun Droplet 0.5
+Sunbeam Spellbomb 0.3
+Sword of Kaldra 0.9
+Synod Sanctum 0.5
+Talisman of Dominance 0.5
+Talisman of Impulse 0.5
+Talisman of Indulgence 0.5
+Talisman of Progress 0.5
+Talisman of Unity 0.5
+Tanglebloom 0.3
+Tangleroot 0.1
+Tel-Jilad Stylus 0.1
+Thought Prison 0.4
+Timesifer 0.1
+Titanium Golem 0.4
+Tooth of Chiss-Goria 0.6
+Tower of Champions 0.4
+Tower of Eons 0.3
+Tower of Fortunes 0.4
+Tower of Murmurs 0.4
+Triskelion 0.9
+Viridian Longbow 0.9
+Vorrac Battlehorns 0.4
+Vulshok Battlegear 0.7
+Vulshok Gauntlets 0.75
+Welding Jar 0.4
+Wizard Replica 0.6
+Worldslayer 0.5
+Yotian Soldier 0.52
+
+; Land
+
+Ancient Den 0.4
+Blinkmoth Well 0.4
+Cloudpost 0.3
+Glimmervoid 0.3
+Great Furnace 0.4
+Seat of Synod 0.4
+Tree of Tales 0.4
+Vault of Whispers 0.4
+
+
+; Champions of Kamigawa
+
+; White
+
+Blessed Breath 0.6+CountBy(SubType,Acane,0.04)
+Bushi Tenderfoot 0.5+CountBy(Name,"Indomitable Will",0.05)+CountBy(Name,"Kodama's Might",0.05)
+Cage of Hands 0.8
+Call to Glory 0.3+2*CountBy(SubType,Samurai,0.05)
+Candles' Glow 0.5+CountBy(SubType,Acane,0.04)
+Cleanfall 0.4
+Devoted Retainer 0.5
+Eight-and-a-Half-Tails 0.9
+Ethereal Haze 0.6
+Ghostly Prison 0.5
+Harsh Deceiver 0.5
+Hikari, Twilight Guardian 1.0+CountBy(SubType,Acane,0.04)+CountBy(SubType,Spirit,0.04)
+Hold the Line 0.5
+Honden of Cleansing Fire 0.4+CountBy(SubType,Shrine,0.03)
+Horizon Seed 0.3+CountBy(SubType,Acane,0.03)+CountBy(SubType,Spirit,0.03)
+Hundred-talon Kami 0.6
+Indomitable Will 0.7
+Innocence Kami 0.6
+Isamaru, Hound of Konda 0.71
+Kabuto Moth 0.9
+Kami of Ancient Law 0.7
+Kami of Old Stone 0.6
+Kami of the Painted Road 0.5+CountBy(SubType,Acane,0.04)+CountBy(SubType,Spirit,0.04)
+Kami of the Palace Fields 0.55
+Kitsune Blademaster 0.8
+Kitsune Diviner 0.65
+Kitsune Healer 0.6
+Kitsune Mystic 0.6+2*CountBy(Type,"Enchant Creature",0.04)
+Kitsune Riftwalker 0.7
+Konda, Lord of Eiganjo 0.9
+Konda's Hatamoto 0.5
+Lantern Kami 0.6
+Masako the Humorless 0.8
+Mothrider Samurai 0.7
+Myojin of Cleansing Fire 0.9
+Nagao, Bound by Honor 0.8+CountBy(Subtype,"Samurai",0.1)
+Otherworldly Journey 0.7
+Pious Kitsune 0.3
+Quiet Purity 0.5+CountBy(Subtype,Arcane,0.04)
+Reciprocate 0.8
+Reverse the Sands 0.4
+Samurai Enforcers 0.55
+Samurai of the Pale Curtain 0.75
+Sensei Golden-Tail 0.9
+Silent-Chant Zubera 0.3
+Takeno, Samurai General 0.7+0*CountBy(Subtype,Samurai,0.03)
+Terashi's Cry 0.5
+Vassal's Duty 0.3
+Vigilance 0.1
+Yosei, the Morning Star 1.1
+
+; Blue
+
+Aura of Dominion 0.2
+Azami, Lady of Scrolls 0.9
+Callous Deceiver 0.5
+Consuming Vortex 0.7
+Counsel of the Soratami 0.5+4*CountBy(KnowledgeType,Removal,0.01)
+Cut the Tethers 0.3
+Dampen Thought 0.2
+Eerie Procession 0.4
+Eye of Nowhere 0.6
+Field of Reality 0.2
+Floating-Dream Zubera 0.8
+Gifts Ungiven 0.5
+Graceful Adept 0.5
+Guardian of Solitude 0.4+CountBy(Name,"Student of Elements",0.1)
+Hinder 0.6
+Hisoka, Minamo Sensei 0.5
+Hisoka's Defiance 0.5
+Hisoka's Guard 0.6
+Honden of Seeing Winds 0.9
+Jushi Apprentice 0.9
+Kami of Twisted Reflection 0.5
+Keiga, the Tide Star 1.3
+Lifted by Clouds 0.5+CountBy(Name,"Student of Elements",0.1)
+Meloku the Clouded Mirror 1.5
+Myojin of Seeing Winds 0.8
+Mystic Restraints 0.75
+Part the Veil 0.4
+Peer Through Depths 0.5
+Petals of Insight 0.5
+Psychic Puppetry 0.4
+Reach Through Mists 0.6+CountBy(SubType,Acane,0.01)
+Reweave 0.4
+River Kaijin 0.65
+Sift Through Sands 0.5
+Sire of the Storm 0.7
+Soratami Cloudskater 0.65
+Soratami Mirror-guard 0.71
+Soratami Mirror-Mage 0.7
+Soratami Rainshaper 0.7
+Soratami Savant 0.8
+Soratami Seer 0.8
+Squelch 0.4
+Student of Elements 0.5
+Swirl the Mists 0.2
+Teller of Tales 0.8
+Thoughtbind 0.5
+Time Stop 0.5
+The Unspeakable 0.6
+Uyo, Silent Prophet 1.0
+Wandering Ones 0.1
+
+; Black
+
+Ashen-Skin Zubera 0.6
+Befoul 0.75
+Blood Speaker 0.4+4*CountBy(SubType,Demon,0.04)
+Bloodthirsty Ogre 0.5
+Cranial Extraction 1.0
+Cruel Deceiver 0.7
+Cursed Ronin 0.6
+Dance of Shadows 0.5
+Deathcurse Ogre 0.2
+Devouring Greed 0.9+CountBy(SubType,Spirit,0.1)
+Distress 0.6
+Gibbering Kami 0.7
+Gutwrencher Oni 0.8
+He Who Hungers 0.9
+Hideous Laughter 0.6
+Honden of Night's Reach 0.7
+Horobi, Death's Wail 0.9
+Iname, Death Aspect 0.6
+Kami of Lunacy 0.6
+Kami of the Waning Moon 0.6
+Kiku, Night's Flower 1.0
+Kokusho, the Evening Star 1.3
+Kuro, Pitlord 0.4
+Marrow-Gnawer 0.6
+Midnight Covenant 0.4
+Myojin of Night's Reach 0.7
+Nezumi Bone-Reader 0.5
+Nezumi Cutthroat 0.8
+Nezumi Graverobber 0.82
+Nezumi Ronin 0.65
+Nezumi Shortfang 1.0
+Night Dealings 0.7
+Night of Souls' Betrayal 0.5
+Numai Outcast 0.5
+Oni Possession 0.5
+Painwracker Oni 0.73+CountBy(SubType,Ogre,0.04)
+Pull Under 0.65
+Rag Dealer 0.3
+Ragged Veins 0.3
+Rend Flesh 0.8
+Rend Spirit 0.7
+Scuttling Death 0.6+2*CountBy(SubType,Spirit,0.02)
+Seizan, Perverter of Truth 0.9
+Soulless Revival 0.6
+Struggle for Sanity 0.8
+Swallowing Plague 0.8
+Thief of Hope 0.8+CountBy(SubType,Arcane,0.04)+CountBy(SubType,Spirit,0.04)
+Villainous Ogre 0.7+2*CountBy(SubType,Demon,0.04)
+Waking Nightmare 0.6+CountBy(SubType,Acane,0.01)
+Wicked Akuba 0.71
+
+; Red
+
+Akki Avalanchers 0.45
+Akki Coalflinger 0.8
+Akki Lavarunner 0.7
+Akki Rockspeaker 0.1
+Akki Underminer 0.5
+Battle-Mad Ronin 0.5
+Ben-Ben, Akki Hermit 0.8
+Blind With Anger 0.9
+Blood Rites 0.8
+Brothers Yamazaki 0.5
+Brutal Deceiver 0.6
+Crushing Pain 0.5
+Desperate Ritual 0.3
+Devouring Rage 0.8
+Earthshaker 0.8
+Ember-Fist Zubera 0.7
+Frostwielder 0.65
+Glacial Ray 0.8
+Godo, Bandit Warlord 0.7
+Hanabi Blast 0.81
+Hearth Kami 0.7
+Honden of Infinite Rage 0.7
+Initiate of Blood 0.8
+Kami of Fire's Roar 0.7
+Kiki-Jiki, Mirror Breaker 1.0
+Kumano, Master Yamabushi 1.3
+Kumano's Pupils 0.5
+Lava Spike 0.45
+Mana Seism 0.3
+Mindblaze 0.8
+Myojin of Infinite Rage 0.5
+Ore Gorger 0.1
+Pain Kami 0.7
+Ronin Houndmaster 0.7
+Ryusei, the Falling Star 1.3
+Shimatsu the Bloodcloaked 0.4
+Sideswipe 0.5
+Sokenzan Bruiser 0.5+CountBy(SubType,Demon,0.04)
+Soul of Magma 0.5
+Soulblast 0.6
+Stone Rain 0.2
+Strange Inversion 0.2
+Through the Breach 0.3
+Tide of War 0.3
+Uncontrollable Anger 0.6
+Unearthly Blizzard 0.6
+Unnatural Speed 0.1
+Yamabushi's Flame 0.8
+Yamabushi's Storm 0.5
+Zo-Zu the Punisher 0.6
+
+; Green
+
+Azusa, Lost but Seeking 0.5
+Budoka Gardener 0.8
+Burr Grafter 0.7
+Commune With Nature 0.6
+Dosan the Falling Leaf 0.6
+Dripping-Tongue Zubera 0.55
+Feast of Worms 0.2
+Feral Deceiver 0.7
+Gale Force 0.5
+Glimpse of Nature 0.5
+Hana Kami 0.4
+Heartbeat of Spring 0.1
+Honden of Life's Web 0.8
+Humble Budoka 0.6
+Iname, Life Aspect 0.9
+Joyous Respite 0.4
+Jugan, the Rising Star 1.1
+Jukai Messenger 0.4
+Kami of the Hunt 0.74
+Kashi-tribe Reaver 0.7
+Kashi-Tribe Warriors 0.5
+Kodama of the North Tree 0.8
+Kodama of the South Tree 0.9
+Kodama's Might 0.75
+Kodama's Reach 0.7
+Lure 0.4
+Matsu-Tribe Decoy 0.7
+Moss Kami 0.65
+Myojin of Life's Web 0.6
+Nature's Will 0.2
+Orbweaver Kumo 0.5
+Order of the Sacred Bell 0.7
+Orochi Eggwatcher 0.8
+Orochi Leafcaller 0.6
+Orochi Ranger 0.6
+Orochi Sustainer 0.7
+Rootrunner 0.7
+Sachi, Daughter of Seshiro 0.6+CountBy(SubType,Snake,0.03)+CountBy(SubType,Shaman,0.03)
+Sakura-Tribe Elder 0.8
+Serpent Skin 0.6
+Seshiro the Anointed 0.9
+Shisato, Whispering Hunter 0.5+CountBy(SubType,Snake,0.03)
+Soilshaper 0.5
+Sosuke, Son of Seshiro 0.8
+Strength of Cedars 0.8
+Thousand-Legged Kami 0.7
+Time of Need 0.5+3*CountBy(Type,Legendary,0.01)
+Venerable Kumo 0.5
+Vine Kami 0.5
+Wear Away 0.5
+
+; Artifacts
+
+General's Kabuto 0.5
+Hair-Strung Koto 0.4
+Hankyu 0.5
+Honor-Worn Shaku 0.5
+Imi Statue 0.3
+Jade Idol 0.5
+Journeyer's Kite 0.6
+Junkyo Bell 0.3
+Konda's Banner 0.5
+Kusari-Gama 0.7
+Long-Forgotten Gohei 1.1
+Moonring Mirror 0.9
+Nine-Ringed Bo 0.8
+No-Dachi 0.7
+Oathkeeper, Takeno's Daisho 0.9+CountBy(SubType,Samurai,0.1)
+Orochi Hatchery 0.5
+Reito Lantern 0.1
+Sensei's Divining Top 0.5
+Shell of the Last Kappa 0.4
+Tatsumasa the Dragon Fang 1.1
+Tenza, Godo's Maul 0.8+CountBy(Type,Legendary,0.03)
+Uba Mask 0.2
+
+; Land
+
+Boseiju, Who Shelters All 0.4
+Cloudcrest Lake 0.5
+Eiganjo Castle 0.5+CountBy(SubType,Snake,0.01)
+Forbidden Orchard 0.3
+Hall of the Bandit Lord 0.4
+Lantern-Lit Graveyard 0.5
+Minamo, School at Water's Edge 0.5
+Okina, Temple to the Grandfathers 0.5
+Pinecrest Ridge 0.5
+Shinka, the Bloodsoaked Keep 0.5
+Shizo, Death's Storehouse 0.5
+Tranquil Garden 0.5
+Untaidake, the Cloud Keeper 0.3
+Waterveil Cavern 0.5

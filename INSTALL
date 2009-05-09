@@ -1,0 +1,11 @@
+Compiling
+---------
+Requires JpgImg library (http://www.delphi32.com/vcl/599/)
+
+Binary
+------
+Requires:
+* MagicLibrary cards database
+* TTF font files in "font" subdirectory: Magis___.ttf - "MagicSymbols" 
+and Tt0298m_.ttf - "MPZurich Condensed BT".
+
